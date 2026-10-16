@@ -1,5 +1,6 @@
 // Footer.jsx
 import { Link } from "react-router-dom";
+import { GITHUB_REPO_URL, OTHER_GAME } from "../config";
 
 export default function Footer() {
   return (
@@ -74,13 +75,23 @@ export default function Footer() {
               </li>
               <li>
                 <a
-          href="https://github.com/magdalena-lemusser/evo-game"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="hover:text-sky-700"
-        >
-          Dépôt GitHub
-        </a>
+                  href={GITHUB_REPO_URL}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-sky-700"
+                >
+                  Dépôt GitHub
+                </a>
+              </li>
+              <li>
+                <a
+                  href={OTHER_GAME.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-sky-700"
+                >
+                  Un autre jeu&nbsp;: {OTHER_GAME.title} ↗
+                </a>
               </li>
             </ul>
           </div>

@@ -1,5 +1,7 @@
 // Home.jsx
 import { Link } from "react-router-dom";
+import { OTHER_GAME } from "../config";
+import IconOtherGame from "../images/undraw_stars_5pgw.svg";
 import FadeInSection from "../components/FadeInSection";
 import Icon1 from "../images/undraw_too-many-options_lpt0.svg";
 import Icon2 from "../images/undraw_searching-everywhere_tffi.svg";
@@ -187,6 +189,38 @@ export default function Home() {
             </FadeInSection>
           </div>
         </div>
+      </section>
+
+      {/* ===================== */}
+      {/* SECTION 3b — UN AUTRE JEU */}
+      {/* ===================== */}
+      <section className="bg-white py-20">
+        <FadeInSection>
+          <div className="max-w-4xl mx-auto px-6">
+            <a
+              href={OTHER_GAME.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group grid grid-cols-1 sm:grid-cols-[auto_1fr_auto] gap-6 items-center rounded-2xl border border-slate-200 bg-gradient-to-r from-indigo-50 to-amber-50 p-8 hover:shadow-lg transition-shadow"
+            >
+              <img src={IconOtherGame} alt="" className="w-20 h-20 mx-auto" />
+              <div className="text-center sm:text-left space-y-2">
+                <p className="text-xs font-semibold tracking-widest uppercase text-indigo-600">
+                  Un autre jeu à découvrir
+                </p>
+                <h2 className="font-display text-2xl font-semibold text-slate-800">
+                  {OTHER_GAME.title}
+                </h2>
+                <p className="text-slate-600">
+                  Embarque pour une nouvelle aventure linguistique.
+                </p>
+              </div>
+              <span className="text-center sm:text-right text-sky-700 font-semibold group-hover:translate-x-1 transition-transform">
+                Jouer ↗
+              </span>
+            </a>
+          </div>
+        </FadeInSection>
       </section>
 
       {/* ===================== */}

@@ -60,12 +60,13 @@ A formal data paper and/or DOI may be added in the future.
 
 Contributions are welcome.
 
-### Submission form (recommended)
+### Submitting data
 
-Researchers and native speakers can submit new data via a structured submission form:
+Researchers and native speakers can submit new data by email
+(“Soumettre vos données” button on the *À propos* page). Please include the
+language (name + glottocode), the words with their categories, and the source.
 
-👉 [Google Form – Submit data]  
-(link added in the web application)
+The contact address and other external links are set in `src/config.js`.
 
 Submissions are reviewed manually before integration into the dataset.
 

@@ -2,6 +2,7 @@
 import React from "react";
 import FadeInSection from "../components/FadeInSection";
 import DatasetStats from "../components/DatasetStats";
+import { GITHUB_REPO_URL, SUBMIT_DATA_URL, OTHER_GAME } from "../config";
 
 // Icons / images
 import IconMarc from "../images/undraw_developer-avatar_f6ac.svg";
@@ -57,7 +58,7 @@ export default function About() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
-              { name: "Marc Allassonnière-Tang", link: "https://ecoanthropologie.fr/fr/annuaire/allassonniere-tang-marc-9269", icon: IconMarc },
+              { name: "Marc Allassonnière-Tang", link: "https://marctang.github.io", icon: IconMarc },
               { name: "Magdalena Lemus Serrano", link: "https://cv.hal.science/magdalenalemusser", icon: IconMagda },
               { name: "Marine Cozzolino", link: null, icon: IconMarine },
             ].map((person, i) => (
@@ -122,7 +123,7 @@ export default function About() {
     <FadeInSection delay={0.1}>
       <div className="flex flex-wrap justify-center gap-4 mt-4">
         <a
-          href="https://github.com/magdalena-lemusser/evo-game"
+          href={GITHUB_REPO_URL}
           target="_blank"
           rel="noopener noreferrer"
           className="px-6 py-3 bg-sky-700 text-white font-semibold rounded-lg hover:bg-sky-600 transition"
@@ -139,14 +140,30 @@ export default function About() {
         </a>
 
         <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLSfZ6VfFYgoPYksPBl7MpGD2SyJXkIOENfDHm7b7Wjmgl2AUag/viewform?usp=header"
-          target="_blank"
-          rel="noopener noreferrer"
+          href={SUBMIT_DATA_URL}
           className="px-6 py-3 bg-purple-700 text-white font-semibold rounded-lg hover:bg-purple-600 transition"
         >
           Soumettre vos données
         </a>
       </div>
+      <p className="text-sm text-slate-500 mt-4">
+        « Soumettre vos données » ouvre un courriel prérempli&nbsp;: indique la
+        langue, les mots, leurs catégories et la source.
+      </p>
+    </FadeInSection>
+
+    <FadeInSection delay={0.2}>
+      <p className="text-slate-600 pt-6">
+        Envie de continuer à jouer&nbsp;? Découvre aussi{" "}
+        <a
+          href={OTHER_GAME.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-sky-700 font-medium hover:underline"
+        >
+          {OTHER_GAME.title} ↗
+        </a>
+      </p>
     </FadeInSection>
   </div>
 </section>
