@@ -1,0 +1,17 @@
+[
+  {
+    "Classification_ID": "a",
+    "Classification_nameFR": "Classificateurs",
+    "Classification_summaryFR": "Les systèmes à classificateurs regroupent les noms d’une langue en fonction de propriétés sémantiques telles que la forme (long, rond, plat…), la consistance (liquide, granuleux…), la taille, ou encore l’usage des objets (outils, machines, etc.). Contrairement aux autres systèmes de catégorisation nominale, les classificateurs n’entraînent pas de concordance grammaticale entre le nom et les mots qui l’entourent (comme les adjectifs, les verbes ou les articles). Ils apparaissent généralement dans des contextes spécifiques, par exemple avec les nombres, les démonstratifs ou dans certaines constructions verbales. C’est pourquoi on les associe souvent au domaine de la numération."
+  },
+  {
+    "Classification_ID": "b",
+    "Classification_nameFR": "Genre grammatical",
+    "Classification_summaryFR": "Les systèmes de genre grammatical classent les noms dans un petit nombre de catégories, le plus souvent entre deux et quatre. Dans de nombreuses langues, ces catégories sont historiquement liées à la distinction masculin / féminin, mais elles peuvent aussi inclure des genres supplémentaires (comme le neutre). Un trait fondamental de ces systèmes est la concordance grammaticale : le genre du nom se reflète sur les mots qui l’accompagnent, notamment les articles, adjectifs, ou les verbes."
+  },
+  {
+    "Classification_ID": "c",
+    "Classification_nameFR": "Classes nominales",
+    "Classification_summaryFR": "Les systèmes de classes nominales repertorient les noms dans diverses catégories, pouvant aller jusqu’à plusieurs dizaines. Ces systèmes distinguant les humains, les animaux, les parties du corps, les plantes, et d’autres encore ! Tout comme les systèmes de genre grammatical, ils déclenchent un système de concordance entre le nom et les mots qui l’accompagnent comme les adjectifs et les articles."
+  }
+]

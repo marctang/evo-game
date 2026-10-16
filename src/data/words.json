@@ -1,0 +1,5978 @@
+[
+  {
+    "WordID": 1,
+    "Glottocode": "hind1269",
+    "WordEN": "boy",
+    "WordFR": "garçon",
+    "Category": "masculine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 2,
+    "Glottocode": "hind1269",
+    "WordEN": "uncle",
+    "WordFR": "oncle",
+    "Category": "masculine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 3,
+    "Glottocode": "hind1269",
+    "WordEN": "girl",
+    "WordFR": "fille",
+    "Category": "feminine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 4,
+    "Glottocode": "hind1269",
+    "WordEN": "aunt",
+    "WordFR": "tante",
+    "Category": "feminine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 5,
+    "Glottocode": "goem1240",
+    "WordEN": "beehive",
+    "WordFR": "ruche",
+    "Category": "hang/move",
+    "SourceID": 24
+  },
+  {
+    "WordID": 6,
+    "Glottocode": "goem1240",
+    "WordEN": "fish",
+    "WordFR": "poisson",
+    "Category": "hang/move",
+    "SourceID": 24
+  },
+  {
+    "WordID": 7,
+    "Glottocode": "goem1240",
+    "WordEN": "ceiling lamp",
+    "WordFR": "plafonnier",
+    "Category": "hang/move",
+    "SourceID": 24
+  },
+  {
+    "WordID": 8,
+    "Glottocode": "goem1240",
+    "WordEN": "cloud",
+    "WordFR": "nuage",
+    "Category": "hang/move",
+    "SourceID": 24
+  },
+  {
+    "WordID": 9,
+    "Glottocode": "goem1240",
+    "WordEN": "fog",
+    "WordFR": "brouillard",
+    "Category": "hang/move",
+    "SourceID": 24
+  },
+  {
+    "WordID": 10,
+    "Glottocode": "goem1240",
+    "WordEN": "smoke",
+    "WordFR": "fumée",
+    "Category": "hang/move",
+    "SourceID": 24
+  },
+  {
+    "WordID": 11,
+    "Glottocode": "goem1240",
+    "WordEN": "wind",
+    "WordFR": "vent",
+    "Category": "hang/move",
+    "SourceID": 24
+  },
+  {
+    "WordID": 12,
+    "Glottocode": "goem1240",
+    "WordEN": "rain",
+    "WordFR": "pluie",
+    "Category": "hang/move",
+    "SourceID": 24
+  },
+  {
+    "WordID": 13,
+    "Glottocode": "goem1240",
+    "WordEN": "sun",
+    "WordFR": "soleil",
+    "Category": "hang/move",
+    "SourceID": 24
+  },
+  {
+    "WordID": 14,
+    "Glottocode": "goem1240",
+    "WordEN": "moon",
+    "WordFR": "lune",
+    "Category": "hang/move",
+    "SourceID": 24
+  },
+  {
+    "WordID": 15,
+    "Glottocode": "goem1240",
+    "WordEN": "hand",
+    "WordFR": "main",
+    "Category": "hang/move",
+    "SourceID": 24
+  },
+  {
+    "WordID": 16,
+    "Glottocode": "goem1240",
+    "WordEN": "tail",
+    "WordFR": "queue",
+    "Category": "hang/move",
+    "SourceID": 24
+  },
+  {
+    "WordID": 17,
+    "Glottocode": "goem1240",
+    "WordEN": "wing",
+    "WordFR": "aile",
+    "Category": "hang/move",
+    "SourceID": 24
+  },
+  {
+    "WordID": 18,
+    "Glottocode": "goem1240",
+    "WordEN": "hat",
+    "WordFR": "chapeau",
+    "Category": "sit",
+    "SourceID": 24
+  },
+  {
+    "WordID": 19,
+    "Glottocode": "goem1240",
+    "WordEN": "orange",
+    "WordFR": "orange",
+    "Category": "sit",
+    "SourceID": 24
+  },
+  {
+    "WordID": 20,
+    "Glottocode": "goem1240",
+    "WordEN": "tomato",
+    "WordFR": "tomate",
+    "Category": "sit",
+    "SourceID": 24
+  },
+  {
+    "WordID": 21,
+    "Glottocode": "goem1240",
+    "WordEN": "pineapple",
+    "WordFR": "ananas",
+    "Category": "sit",
+    "SourceID": 24
+  },
+  {
+    "WordID": 22,
+    "Glottocode": "goem1240",
+    "WordEN": "boat",
+    "WordFR": "bateau",
+    "Category": "sit",
+    "SourceID": 24
+  },
+  {
+    "WordID": 23,
+    "Glottocode": "goem1240",
+    "WordEN": "calabash",
+    "WordFR": "calebasse",
+    "Category": "sit",
+    "SourceID": 24
+  },
+  {
+    "WordID": 24,
+    "Glottocode": "goem1240",
+    "WordEN": "bottle",
+    "WordFR": "bouteille",
+    "Category": "sit",
+    "SourceID": 24
+  },
+  {
+    "WordID": 25,
+    "Glottocode": "goem1240",
+    "WordEN": "plate",
+    "WordFR": "plaque",
+    "Category": "sit",
+    "SourceID": 24
+  },
+  {
+    "WordID": 26,
+    "Glottocode": "goem1240",
+    "WordEN": "chair",
+    "WordFR": "chaise",
+    "Category": "sit",
+    "SourceID": 24
+  },
+  {
+    "WordID": 27,
+    "Glottocode": "goem1240",
+    "WordEN": "hut",
+    "WordFR": "cabane",
+    "Category": "stand",
+    "SourceID": 24
+  },
+  {
+    "WordID": 28,
+    "Glottocode": "goem1240",
+    "WordEN": "house",
+    "WordFR": "maison",
+    "Category": "stand",
+    "SourceID": 24
+  },
+  {
+    "WordID": 29,
+    "Glottocode": "goem1240",
+    "WordEN": "wall",
+    "WordFR": "mur",
+    "Category": "stand",
+    "SourceID": 24
+  },
+  {
+    "WordID": 30,
+    "Glottocode": "goem1240",
+    "WordEN": "smoke",
+    "WordFR": "fumée",
+    "Category": "stand",
+    "SourceID": 24
+  },
+  {
+    "WordID": 31,
+    "Glottocode": "goem1240",
+    "WordEN": "moonlight",
+    "WordFR": "clair de lune",
+    "Category": "stand",
+    "SourceID": 24
+  },
+  {
+    "WordID": 32,
+    "Glottocode": "goem1240",
+    "WordEN": "foot",
+    "WordFR": "pied",
+    "Category": "stand",
+    "SourceID": 24
+  },
+  {
+    "WordID": 33,
+    "Glottocode": "goem1240",
+    "WordEN": "nose",
+    "WordFR": "nez",
+    "Category": "stand",
+    "SourceID": 24
+  },
+  {
+    "WordID": 34,
+    "Glottocode": "goem1240",
+    "WordEN": "tooth",
+    "WordFR": "dent",
+    "Category": "stand",
+    "SourceID": 24
+  },
+  {
+    "WordID": 35,
+    "Glottocode": "goem1240",
+    "WordEN": "lake",
+    "WordFR": "lac",
+    "Category": "stand",
+    "SourceID": 24
+  },
+  {
+    "WordID": 36,
+    "Glottocode": "goem1240",
+    "WordEN": "mountain",
+    "WordFR": "montagne",
+    "Category": "stand",
+    "SourceID": 24
+  },
+  {
+    "WordID": 37,
+    "Glottocode": "goem1240",
+    "WordEN": "watch",
+    "WordFR": "montre",
+    "Category": "lie",
+    "SourceID": 24
+  },
+  {
+    "WordID": 38,
+    "Glottocode": "goem1240",
+    "WordEN": "bracelet",
+    "WordFR": "bracelet",
+    "Category": "lie",
+    "SourceID": 24
+  },
+  {
+    "WordID": 39,
+    "Glottocode": "goem1240",
+    "WordEN": "ring",
+    "WordFR": "anneau",
+    "Category": "lie",
+    "SourceID": 24
+  },
+  {
+    "WordID": 40,
+    "Glottocode": "goem1240",
+    "WordEN": "belt",
+    "WordFR": "ceinture",
+    "Category": "lie",
+    "SourceID": 24
+  },
+  {
+    "WordID": 41,
+    "Glottocode": "goem1240",
+    "WordEN": "tree bark",
+    "WordFR": "écorce d'arbre",
+    "Category": "lie",
+    "SourceID": 24
+  },
+  {
+    "WordID": 42,
+    "Glottocode": "goem1240",
+    "WordEN": "pencil",
+    "WordFR": "crayon",
+    "Category": "lie",
+    "SourceID": 24
+  },
+  {
+    "WordID": 43,
+    "Glottocode": "goem1240",
+    "WordEN": "paper",
+    "WordFR": "papier",
+    "Category": "lie",
+    "SourceID": 24
+  },
+  {
+    "WordID": 44,
+    "Glottocode": "goem1240",
+    "WordEN": "grass",
+    "WordFR": "herbe",
+    "Category": "lie",
+    "SourceID": 24
+  },
+  {
+    "WordID": 45,
+    "Glottocode": "goem1240",
+    "WordEN": "tongue",
+    "WordFR": "langue",
+    "Category": "lie",
+    "SourceID": 24
+  },
+  {
+    "WordID": 46,
+    "Glottocode": "goem1240",
+    "WordEN": "beard",
+    "WordFR": "barbe",
+    "Category": "lie",
+    "SourceID": 24
+  },
+  {
+    "WordID": 47,
+    "Glottocode": "goem1240",
+    "WordEN": "sea",
+    "WordFR": "mer",
+    "Category": "lie",
+    "SourceID": 24
+  },
+  {
+    "WordID": 48,
+    "Glottocode": "goem1240",
+    "WordEN": "river",
+    "WordFR": "rivière",
+    "Category": "lie",
+    "SourceID": 24
+  },
+  {
+    "WordID": 49,
+    "Glottocode": "saba1268",
+    "WordEN": "house",
+    "WordFR": "maison",
+    "Category": "hemispheric",
+    "SourceID": 4
+  },
+  {
+    "WordID": 50,
+    "Glottocode": "saba1268",
+    "WordEN": "pan",
+    "WordFR": "poêle",
+    "Category": "hemispheric",
+    "SourceID": 4
+  },
+  {
+    "WordID": 51,
+    "Glottocode": "saba1268",
+    "WordEN": "calabash",
+    "WordFR": "calebasse",
+    "Category": "hemispheric",
+    "SourceID": 4
+  },
+  {
+    "WordID": 52,
+    "Glottocode": "saba1268",
+    "WordEN": "clay pot",
+    "WordFR": "pot d'argile",
+    "Category": "hemispheric",
+    "SourceID": 4
+  },
+  {
+    "WordID": 53,
+    "Glottocode": "saba1268",
+    "WordEN": "car",
+    "WordFR": "voiture",
+    "Category": "hemispheric",
+    "SourceID": 4
+  },
+  {
+    "WordID": 54,
+    "Glottocode": "saba1268",
+    "WordEN": "glass",
+    "WordFR": "verre",
+    "Category": "hemispheric",
+    "SourceID": 4
+  },
+  {
+    "WordID": 55,
+    "Glottocode": "saba1268",
+    "WordEN": "rainbow",
+    "WordFR": "arc-en-ciel",
+    "Category": "hemispheric",
+    "SourceID": 4
+  },
+  {
+    "WordID": 56,
+    "Glottocode": "saba1268",
+    "WordEN": "bone",
+    "WordFR": "os",
+    "Category": "long",
+    "SourceID": 4
+  },
+  {
+    "WordID": 57,
+    "Glottocode": "saba1268",
+    "WordEN": "stick",
+    "WordFR": "bâton",
+    "Category": "long",
+    "SourceID": 4
+  },
+  {
+    "WordID": 58,
+    "Glottocode": "saba1268",
+    "WordEN": "firewood",
+    "WordFR": "bois de chauffage",
+    "Category": "long",
+    "SourceID": 4
+  },
+  {
+    "WordID": 59,
+    "Glottocode": "saba1268",
+    "WordEN": "wooden scissors",
+    "WordFR": "ciseaux en bois",
+    "Category": "long",
+    "SourceID": 4
+  },
+  {
+    "WordID": 60,
+    "Glottocode": "saba1268",
+    "WordEN": "bow",
+    "WordFR": "arc",
+    "Category": "long",
+    "SourceID": 4
+  },
+  {
+    "WordID": 61,
+    "Glottocode": "saba1268",
+    "WordEN": "arrow",
+    "WordFR": "flèche",
+    "Category": "long",
+    "SourceID": 4
+  },
+  {
+    "WordID": 62,
+    "Glottocode": "saba1268",
+    "WordEN": "fising-line",
+    "WordFR": "ligne de pêche",
+    "Category": "strings",
+    "SourceID": 4
+  },
+  {
+    "WordID": 63,
+    "Glottocode": "saba1268",
+    "WordEN": "string",
+    "WordFR": "chaîne",
+    "Category": "strings",
+    "SourceID": 4
+  },
+  {
+    "WordID": 64,
+    "Glottocode": "saba1268",
+    "WordEN": "larvae",
+    "WordFR": "larves",
+    "Category": "snakes",
+    "SourceID": 4
+  },
+  {
+    "WordID": 65,
+    "Glottocode": "saba1268",
+    "WordEN": "vermiform",
+    "WordFR": "vermiforme",
+    "Category": "snakes",
+    "SourceID": 4
+  },
+  {
+    "WordID": 66,
+    "Glottocode": "saba1268",
+    "WordEN": "snake",
+    "WordFR": "serpent",
+    "Category": "snakes",
+    "SourceID": 4
+  },
+  {
+    "WordID": 67,
+    "Glottocode": "saba1268",
+    "WordEN": "lizard",
+    "WordFR": "lézard",
+    "Category": "snakes",
+    "SourceID": 4
+  },
+  {
+    "WordID": 68,
+    "Glottocode": "saba1268",
+    "WordEN": "earthworm",
+    "WordFR": "ver de terre",
+    "Category": "snakes",
+    "SourceID": 4
+  },
+  {
+    "WordID": 69,
+    "Glottocode": "saba1268",
+    "WordEN": "milliped",
+    "WordFR": "mille-pattes",
+    "Category": "snakes",
+    "SourceID": 4
+  },
+  {
+    "WordID": 70,
+    "Glottocode": "saba1268",
+    "WordEN": "spoon",
+    "WordFR": "cuillère",
+    "Category": "bark",
+    "SourceID": 4
+  },
+  {
+    "WordID": 71,
+    "Glottocode": "saba1268",
+    "WordEN": "canoe",
+    "WordFR": "canoë",
+    "Category": "bark",
+    "SourceID": 4
+  },
+  {
+    "WordID": 72,
+    "Glottocode": "saba1268",
+    "WordEN": "earring",
+    "WordFR": "boucle d'oreille",
+    "Category": "bark",
+    "SourceID": 4
+  },
+  {
+    "WordID": 73,
+    "Glottocode": "saba1268",
+    "WordEN": "ring",
+    "WordFR": "anneau",
+    "Category": "bark",
+    "SourceID": 4
+  },
+  {
+    "WordID": 74,
+    "Glottocode": "saba1268",
+    "WordEN": "fruit peel",
+    "WordFR": "zeste de fruit",
+    "Category": "bark",
+    "SourceID": 4
+  },
+  {
+    "WordID": 75,
+    "Glottocode": "saba1268",
+    "WordEN": "seed",
+    "WordFR": "graine",
+    "Category": "round",
+    "SourceID": 4
+  },
+  {
+    "WordID": 76,
+    "Glottocode": "saba1268",
+    "WordEN": "spider",
+    "WordFR": "araignée",
+    "Category": "round",
+    "SourceID": 4
+  },
+  {
+    "WordID": 77,
+    "Glottocode": "saba1268",
+    "WordEN": "insect",
+    "WordFR": "insecte",
+    "Category": "round",
+    "SourceID": 4
+  },
+  {
+    "WordID": 78,
+    "Glottocode": "saba1268",
+    "WordEN": "frog",
+    "WordFR": "grenouille",
+    "Category": "round",
+    "SourceID": 4
+  },
+  {
+    "WordID": 79,
+    "Glottocode": "saba1268",
+    "WordEN": "star",
+    "WordFR": "étoile",
+    "Category": "round",
+    "SourceID": 4
+  },
+  {
+    "WordID": 80,
+    "Glottocode": "saba1268",
+    "WordEN": "powder",
+    "WordFR": "poudre",
+    "Category": "powder",
+    "SourceID": 4
+  },
+  {
+    "WordID": 81,
+    "Glottocode": "saba1268",
+    "WordEN": "dust",
+    "WordFR": "poussière",
+    "Category": "powder",
+    "SourceID": 4
+  },
+  {
+    "WordID": 82,
+    "Glottocode": "saba1268",
+    "WordEN": "flour",
+    "WordFR": "farine",
+    "Category": "powder",
+    "SourceID": 4
+  },
+  {
+    "WordID": 83,
+    "Glottocode": "sanb1242",
+    "WordEN": "cigarette",
+    "WordFR": "cigarette",
+    "Category": "Long, small",
+    "SourceID": 5
+  },
+  {
+    "WordID": 84,
+    "Glottocode": "sanb1242",
+    "WordEN": "tooth",
+    "WordFR": "dent",
+    "Category": "Long, small",
+    "SourceID": 5
+  },
+  {
+    "WordID": 85,
+    "Glottocode": "sanb1242",
+    "WordEN": "spoon",
+    "WordFR": "cuillère",
+    "Category": "Long, small",
+    "SourceID": 5
+  },
+  {
+    "WordID": 86,
+    "Glottocode": "sanb1242",
+    "WordEN": "pencil",
+    "WordFR": "crayon",
+    "Category": "Long, small",
+    "SourceID": 5
+  },
+  {
+    "WordID": 87,
+    "Glottocode": "sanb1242",
+    "WordEN": "machete",
+    "WordFR": "machette",
+    "Category": "Long, small",
+    "SourceID": 5
+  },
+  {
+    "WordID": 88,
+    "Glottocode": "sanb1242",
+    "WordEN": "leaf",
+    "WordFR": "feuille",
+    "Category": "Long, small",
+    "SourceID": 5
+  },
+  {
+    "WordID": 89,
+    "Glottocode": "sanb1242",
+    "WordEN": "paper",
+    "WordFR": "papier",
+    "Category": "flat",
+    "SourceID": 5
+  },
+  {
+    "WordID": 90,
+    "Glottocode": "sanb1242",
+    "WordEN": "book",
+    "WordFR": "livre",
+    "Category": "flat",
+    "SourceID": 5
+  },
+  {
+    "WordID": 91,
+    "Glottocode": "sanb1242",
+    "WordEN": "board",
+    "WordFR": "conseil",
+    "Category": "flat",
+    "SourceID": 5
+  },
+  {
+    "WordID": 92,
+    "Glottocode": "sanb1242",
+    "WordEN": "idea",
+    "WordFR": "idée",
+    "Category": "General",
+    "SourceID": 5
+  },
+  {
+    "WordID": 93,
+    "Glottocode": "sanb1242",
+    "WordEN": "language",
+    "WordFR": "langage",
+    "Category": "General",
+    "SourceID": 5
+  },
+  {
+    "WordID": 94,
+    "Glottocode": "sanb1242",
+    "WordEN": "type",
+    "WordFR": "type",
+    "Category": "General",
+    "SourceID": 5
+  },
+  {
+    "WordID": 95,
+    "Glottocode": "sanb1242",
+    "WordEN": "event",
+    "WordFR": "événement",
+    "Category": "General",
+    "SourceID": 5
+  },
+  {
+    "WordID": 96,
+    "Glottocode": "sanb1242",
+    "WordEN": "clothing",
+    "WordFR": "vêtements",
+    "Category": "flexible",
+    "SourceID": 5
+  },
+  {
+    "WordID": 97,
+    "Glottocode": "sanb1242",
+    "WordEN": "cloth",
+    "WordFR": "tissu",
+    "Category": "flexible",
+    "SourceID": 5
+  },
+  {
+    "WordID": 98,
+    "Glottocode": "sanb1242",
+    "WordEN": "people",
+    "WordFR": "personnes",
+    "Category": "long",
+    "SourceID": 5
+  },
+  {
+    "WordID": 99,
+    "Glottocode": "sanb1242",
+    "WordEN": "animal",
+    "WordFR": "animal",
+    "Category": "long",
+    "SourceID": 5
+  },
+  {
+    "WordID": 100,
+    "Glottocode": "sanb1242",
+    "WordEN": "boat",
+    "WordFR": "bateau",
+    "Category": "long",
+    "SourceID": 5
+  },
+  {
+    "WordID": 101,
+    "Glottocode": "sanb1242",
+    "WordEN": "finger",
+    "WordFR": "doigt",
+    "Category": "long",
+    "SourceID": 5
+  },
+  {
+    "WordID": 102,
+    "Glottocode": "sanb1242",
+    "WordEN": "leg",
+    "WordFR": "jambe",
+    "Category": "long",
+    "SourceID": 5
+  },
+  {
+    "WordID": 103,
+    "Glottocode": "sanb1242",
+    "WordEN": "car",
+    "WordFR": "voiture",
+    "Category": "long",
+    "SourceID": 5
+  },
+  {
+    "WordID": 104,
+    "Glottocode": "sanb1242",
+    "WordEN": "name",
+    "WordFR": "nom",
+    "Category": "long",
+    "SourceID": 5
+  },
+  {
+    "WordID": 105,
+    "Glottocode": "sanb1242",
+    "WordEN": "road",
+    "WordFR": "route",
+    "Category": "long",
+    "SourceID": 5
+  },
+  {
+    "WordID": 106,
+    "Glottocode": "sanb1242",
+    "WordEN": "river",
+    "WordFR": "rivière",
+    "Category": "long",
+    "SourceID": 5
+  },
+  {
+    "WordID": 107,
+    "Glottocode": "sanb1242",
+    "WordEN": "rope",
+    "WordFR": "corde",
+    "Category": "long",
+    "SourceID": 5
+  },
+  {
+    "WordID": 108,
+    "Glottocode": "sanb1242",
+    "WordEN": "snake",
+    "WordFR": "serpent",
+    "Category": "long",
+    "SourceID": 5
+  },
+  {
+    "WordID": 109,
+    "Glottocode": "sanb1242",
+    "WordEN": "fruit",
+    "WordFR": "fruit",
+    "Category": "round",
+    "SourceID": 5
+  },
+  {
+    "WordID": 110,
+    "Glottocode": "sanb1242",
+    "WordEN": "table",
+    "WordFR": "tableau",
+    "Category": "round",
+    "SourceID": 5
+  },
+  {
+    "WordID": 111,
+    "Glottocode": "sanb1242",
+    "WordEN": "cup",
+    "WordFR": "tasse",
+    "Category": "round",
+    "SourceID": 5
+  },
+  {
+    "WordID": 112,
+    "Glottocode": "sanb1242",
+    "WordEN": "hat",
+    "WordFR": "chapeau",
+    "Category": "round",
+    "SourceID": 5
+  },
+  {
+    "WordID": 113,
+    "Glottocode": "sanb1242",
+    "WordEN": "house",
+    "WordFR": "maison",
+    "Category": "round",
+    "SourceID": 5
+  },
+  {
+    "WordID": 114,
+    "Glottocode": "sanb1242",
+    "WordEN": "computer",
+    "WordFR": "ordinateur",
+    "Category": "round",
+    "SourceID": 5
+  },
+  {
+    "WordID": 115,
+    "Glottocode": "sanb1242",
+    "WordEN": "bird",
+    "WordFR": "oiseau",
+    "Category": "round",
+    "SourceID": 5
+  },
+  {
+    "WordID": 116,
+    "Glottocode": "gilb1244",
+    "WordEN": "boat",
+    "WordFR": "bateau",
+    "Category": "transport",
+    "SourceID": 8
+  },
+  {
+    "WordID": 117,
+    "Glottocode": "gilb1244",
+    "WordEN": "canoe",
+    "WordFR": "canoë",
+    "Category": "transport",
+    "SourceID": 8
+  },
+  {
+    "WordID": 118,
+    "Glottocode": "gilb1244",
+    "WordEN": "plane",
+    "WordFR": "avion",
+    "Category": "transport",
+    "SourceID": 8
+  },
+  {
+    "WordID": 119,
+    "Glottocode": "gilb1244",
+    "WordEN": "large fish",
+    "WordFR": "gros poisson",
+    "Category": "long",
+    "SourceID": 8
+  },
+  {
+    "WordID": 120,
+    "Glottocode": "gilb1244",
+    "WordEN": "stick",
+    "WordFR": "bâton",
+    "Category": "long",
+    "SourceID": 8
+  },
+  {
+    "WordID": 121,
+    "Glottocode": "gilb1244",
+    "WordEN": "pencil",
+    "WordFR": "crayon",
+    "Category": "long",
+    "SourceID": 8
+  },
+  {
+    "WordID": 122,
+    "Glottocode": "gilb1244",
+    "WordEN": "bottles",
+    "WordFR": "bouteilles",
+    "Category": "long",
+    "SourceID": 8
+  },
+  {
+    "WordID": 123,
+    "Glottocode": "gilb1244",
+    "WordEN": "ruler",
+    "WordFR": "règle",
+    "Category": "long",
+    "SourceID": 8
+  },
+  {
+    "WordID": 124,
+    "Glottocode": "gilb1244",
+    "WordEN": "knife",
+    "WordFR": "couteau",
+    "Category": "long",
+    "SourceID": 8
+  },
+  {
+    "WordID": 125,
+    "Glottocode": "madn1237",
+    "WordEN": "wallaby",
+    "WordFR": "wallaby",
+    "Category": "animals",
+    "SourceID": 10
+  },
+  {
+    "WordID": 126,
+    "Glottocode": "madn1237",
+    "WordEN": "kangaroo",
+    "WordFR": "kangourou",
+    "Category": "animals",
+    "SourceID": 10
+  },
+  {
+    "WordID": 127,
+    "Glottocode": "madn1237",
+    "WordEN": "timber",
+    "WordFR": "bois",
+    "Category": "fire and its products and utensils, firewood, timber",
+    "SourceID": 10
+  },
+  {
+    "WordID": 128,
+    "Glottocode": "madn1237",
+    "WordEN": "firestick",
+    "WordFR": "bâton de feu",
+    "Category": "fire",
+    "SourceID": 10
+  },
+  {
+    "WordID": 129,
+    "Glottocode": "madn1237",
+    "WordEN": "fire",
+    "WordFR": "feu",
+    "Category": "fire",
+    "SourceID": 10
+  },
+  {
+    "WordID": 130,
+    "Glottocode": "madn1237",
+    "WordEN": "wood",
+    "WordFR": "bois",
+    "Category": "fire",
+    "SourceID": 10
+  },
+  {
+    "WordID": 131,
+    "Glottocode": "madn1237",
+    "WordEN": "potatoe",
+    "WordFR": "pomme de terre",
+    "Category": "food",
+    "SourceID": 10
+  },
+  {
+    "WordID": 132,
+    "Glottocode": "mart1255",
+    "WordEN": "big",
+    "WordFR": "grand",
+    "Category": "dimension and shape",
+    "SourceID": 11
+  },
+  {
+    "WordID": 133,
+    "Glottocode": "mart1255",
+    "WordEN": "small",
+    "WordFR": "petit",
+    "Category": "dimension and shape",
+    "SourceID": 11
+  },
+  {
+    "WordID": 134,
+    "Glottocode": "mart1255",
+    "WordEN": "huge",
+    "WordFR": "énorme",
+    "Category": "dimension and shape",
+    "SourceID": 11
+  },
+  {
+    "WordID": 135,
+    "Glottocode": "mart1255",
+    "WordEN": "flat",
+    "WordFR": "plat",
+    "Category": "dimension and shape",
+    "SourceID": 11
+  },
+  {
+    "WordID": 136,
+    "Glottocode": "mart1255",
+    "WordEN": "round",
+    "WordFR": "rond",
+    "Category": "dimension and shape",
+    "SourceID": 11
+  },
+  {
+    "WordID": 137,
+    "Glottocode": "mart1255",
+    "WordEN": "alive",
+    "WordFR": "vivant",
+    "Category": "physical property",
+    "SourceID": 11
+  },
+  {
+    "WordID": 138,
+    "Glottocode": "mart1255",
+    "WordEN": "stinking",
+    "WordFR": "puant",
+    "Category": "physical property",
+    "SourceID": 11
+  },
+  {
+    "WordID": 139,
+    "Glottocode": "mart1255",
+    "WordEN": "dirty",
+    "WordFR": "sale",
+    "Category": "physical property",
+    "SourceID": 11
+  },
+  {
+    "WordID": 140,
+    "Glottocode": "mart1255",
+    "WordEN": "dusty",
+    "WordFR": "poussiéreux",
+    "Category": "physical property",
+    "SourceID": 11
+  },
+  {
+    "WordID": 141,
+    "Glottocode": "mart1255",
+    "WordEN": "smooth",
+    "WordFR": "lisse",
+    "Category": "physical property",
+    "SourceID": 11
+  },
+  {
+    "WordID": 142,
+    "Glottocode": "mart1255",
+    "WordEN": "grey",
+    "WordFR": "gris",
+    "Category": "colour",
+    "SourceID": 11
+  },
+  {
+    "WordID": 143,
+    "Glottocode": "mart1255",
+    "WordEN": "white",
+    "WordFR": "blanc",
+    "Category": "colour",
+    "SourceID": 11
+  },
+  {
+    "WordID": 144,
+    "Glottocode": "mart1255",
+    "WordEN": "black",
+    "WordFR": "noir",
+    "Category": "colour",
+    "SourceID": 11
+  },
+  {
+    "WordID": 145,
+    "Glottocode": "mart1255",
+    "WordEN": "yellow",
+    "WordFR": "jaune",
+    "Category": "colour",
+    "SourceID": 11
+  },
+  {
+    "WordID": 146,
+    "Glottocode": "mart1255",
+    "WordEN": "green",
+    "WordFR": "vert",
+    "Category": "colour",
+    "SourceID": 11
+  },
+  {
+    "WordID": 147,
+    "Glottocode": "mart1255",
+    "WordEN": "young",
+    "WordFR": "jeune",
+    "Category": "Age",
+    "SourceID": 11
+  },
+  {
+    "WordID": 148,
+    "Glottocode": "mart1255",
+    "WordEN": "new",
+    "WordFR": "nouveau",
+    "Category": "Age",
+    "SourceID": 11
+  },
+  {
+    "WordID": 149,
+    "Glottocode": "mart1255",
+    "WordEN": "old",
+    "WordFR": "vieux",
+    "Category": "Age",
+    "SourceID": 11
+  },
+  {
+    "WordID": 150,
+    "Glottocode": "mart1255",
+    "WordEN": "good",
+    "WordFR": "bien",
+    "Category": "Value",
+    "SourceID": 11
+  },
+  {
+    "WordID": 151,
+    "Glottocode": "mart1255",
+    "WordEN": "bad",
+    "WordFR": "mauvais",
+    "Category": "Value",
+    "SourceID": 11
+  },
+  {
+    "WordID": 152,
+    "Glottocode": "mart1255",
+    "WordEN": "useless",
+    "WordFR": "inutile",
+    "Category": "Value",
+    "SourceID": 11
+  },
+  {
+    "WordID": 153,
+    "Glottocode": "mart1255",
+    "WordEN": "correct",
+    "WordFR": "correct",
+    "Category": "Value",
+    "SourceID": 11
+  },
+  {
+    "WordID": 154,
+    "Glottocode": "mart1255",
+    "WordEN": "crazy",
+    "WordFR": "fou",
+    "Category": "human propensity",
+    "SourceID": 11
+  },
+  {
+    "WordID": 155,
+    "Glottocode": "mart1255",
+    "WordEN": "silly",
+    "WordFR": "bête",
+    "Category": "human propensity",
+    "SourceID": 11
+  },
+  {
+    "WordID": 156,
+    "Glottocode": "mart1255",
+    "WordEN": "clever",
+    "WordFR": "intelligent",
+    "Category": "human propensity",
+    "SourceID": 11
+  },
+  {
+    "WordID": 157,
+    "Glottocode": "mart1255",
+    "WordEN": "unfortunate",
+    "WordFR": "malencontreux",
+    "Category": "human propensity",
+    "SourceID": 11
+  },
+  {
+    "WordID": 158,
+    "Glottocode": "mart1255",
+    "WordEN": "restless",
+    "WordFR": "agité",
+    "Category": "human propensity",
+    "SourceID": 11
+  },
+  {
+    "WordID": 159,
+    "Glottocode": "mira1254",
+    "WordEN": "eyelashes",
+    "WordFR": "cils",
+    "Category": "brush",
+    "SourceID": 12
+  },
+  {
+    "WordID": 160,
+    "Glottocode": "mira1254",
+    "WordEN": "skirt of fibers)",
+    "WordFR": "jupe de fibres",
+    "Category": "brush",
+    "SourceID": 12
+  },
+  {
+    "WordID": 161,
+    "Glottocode": "mira1254",
+    "WordEN": "paddle",
+    "WordFR": "pagaie",
+    "Category": "Straight, flat",
+    "SourceID": 12
+  },
+  {
+    "WordID": 162,
+    "Glottocode": "mira1254",
+    "WordEN": "machete",
+    "WordFR": "machette",
+    "Category": "Straight, flat",
+    "SourceID": 12
+  },
+  {
+    "WordID": 163,
+    "Glottocode": "mira1254",
+    "WordEN": "ladder",
+    "WordFR": "échelle",
+    "Category": "Straight, flat",
+    "SourceID": 12
+  },
+  {
+    "WordID": 164,
+    "Glottocode": "mira1254",
+    "WordEN": "shirt",
+    "WordFR": "chemise",
+    "Category": "covers",
+    "SourceID": 12
+  },
+  {
+    "WordID": 165,
+    "Glottocode": "mira1254",
+    "WordEN": "kitchen",
+    "WordFR": "cuisine",
+    "Category": "covers",
+    "SourceID": 12
+  },
+  {
+    "WordID": 166,
+    "Glottocode": "mira1254",
+    "WordEN": "clothes",
+    "WordFR": "vêtements",
+    "Category": "covers",
+    "SourceID": 12
+  },
+  {
+    "WordID": 167,
+    "Glottocode": "mira1254",
+    "WordEN": "plate",
+    "WordFR": "plaque",
+    "Category": "round, flat",
+    "SourceID": 12
+  },
+  {
+    "WordID": 168,
+    "Glottocode": "mira1254",
+    "WordEN": "mushroom",
+    "WordFR": "champignon",
+    "Category": "round, flat",
+    "SourceID": 12
+  },
+  {
+    "WordID": 169,
+    "Glottocode": "mira1254",
+    "WordEN": "ax",
+    "WordFR": "hache",
+    "Category": "round, flat",
+    "SourceID": 12
+  },
+  {
+    "WordID": 170,
+    "Glottocode": "mira1254",
+    "WordEN": "rifle",
+    "WordFR": "fusil",
+    "Category": "tubes",
+    "SourceID": 12
+  },
+  {
+    "WordID": 171,
+    "Glottocode": "mira1254",
+    "WordEN": "cigarette",
+    "WordFR": "cigarette",
+    "Category": "tubes",
+    "SourceID": 12
+  },
+  {
+    "WordID": 172,
+    "Glottocode": "mira1254",
+    "WordEN": "pestle",
+    "WordFR": "pilon",
+    "Category": "long, thin",
+    "SourceID": 12
+  },
+  {
+    "WordID": 173,
+    "Glottocode": "mira1254",
+    "WordEN": "candle",
+    "WordFR": "bougie",
+    "Category": "long, thin",
+    "SourceID": 12
+  },
+  {
+    "WordID": 174,
+    "Glottocode": "mira1254",
+    "WordEN": "fishing rod",
+    "WordFR": "canne à pêche",
+    "Category": "long, thin",
+    "SourceID": 12
+  },
+  {
+    "WordID": 175,
+    "Glottocode": "mira1254",
+    "WordEN": "knee",
+    "WordFR": "genou",
+    "Category": "long, thin",
+    "SourceID": 12
+  },
+  {
+    "WordID": 176,
+    "Glottocode": "mira1254",
+    "WordEN": "canoe",
+    "WordFR": "canoë",
+    "Category": "transport",
+    "SourceID": 12
+  },
+  {
+    "WordID": 177,
+    "Glottocode": "mira1254",
+    "WordEN": "airplane",
+    "WordFR": "avion",
+    "Category": "transport",
+    "SourceID": 12
+  },
+  {
+    "WordID": 178,
+    "Glottocode": "mira1254",
+    "WordEN": "eye",
+    "WordFR": "œil",
+    "Category": "round, strings",
+    "SourceID": 12
+  },
+  {
+    "WordID": 179,
+    "Glottocode": "mira1254",
+    "WordEN": "egg",
+    "WordFR": "œuf",
+    "Category": "round, strings",
+    "SourceID": 12
+  },
+  {
+    "WordID": 180,
+    "Glottocode": "mira1254",
+    "WordEN": "string",
+    "WordFR": "chaîne",
+    "Category": "round, strings",
+    "SourceID": 12
+  },
+  {
+    "WordID": 181,
+    "Glottocode": "khoi1251",
+    "WordEN": "orange",
+    "WordFR": "orange",
+    "Category": "round",
+    "SourceID": 7
+  },
+  {
+    "WordID": 182,
+    "Glottocode": "khoi1251",
+    "WordEN": "lemon",
+    "WordFR": "citron",
+    "Category": "round",
+    "SourceID": 7
+  },
+  {
+    "WordID": 183,
+    "Glottocode": "khoi1251",
+    "WordEN": "pumpkin",
+    "WordFR": "citrouille",
+    "Category": "round",
+    "SourceID": 7
+  },
+  {
+    "WordID": 184,
+    "Glottocode": "khoi1251",
+    "WordEN": "surgacane",
+    "WordFR": "canne à sucre",
+    "Category": "Long, thin",
+    "SourceID": 7
+  },
+  {
+    "WordID": 185,
+    "Glottocode": "khoi1251",
+    "WordEN": "bamboo",
+    "WordFR": "bambou",
+    "Category": "Long, thin",
+    "SourceID": 7
+  },
+  {
+    "WordID": 186,
+    "Glottocode": "khoi1251",
+    "WordEN": "rope",
+    "WordFR": "corde",
+    "Category": "Long, thin",
+    "SourceID": 7
+  },
+  {
+    "WordID": 187,
+    "Glottocode": "khoi1251",
+    "WordEN": "cigarette",
+    "WordFR": "cigarette",
+    "Category": "Short, thin",
+    "SourceID": 7
+  },
+  {
+    "WordID": 188,
+    "Glottocode": "khoi1251",
+    "WordEN": "iron",
+    "WordFR": "fer",
+    "Category": "Thick, heavy",
+    "SourceID": 7
+  },
+  {
+    "WordID": 189,
+    "Glottocode": "khoi1251",
+    "WordEN": "house",
+    "WordFR": "maison",
+    "Category": "big",
+    "SourceID": 7
+  },
+  {
+    "WordID": 190,
+    "Glottocode": "khoi1251",
+    "WordEN": "tree",
+    "WordFR": "arbre",
+    "Category": "big",
+    "SourceID": 7
+  },
+  {
+    "WordID": 191,
+    "Glottocode": "khoi1251",
+    "WordEN": "cattle",
+    "WordFR": "bétail",
+    "Category": "big",
+    "SourceID": 7
+  },
+  {
+    "WordID": 192,
+    "Glottocode": "khoi1251",
+    "WordEN": "dog",
+    "WordFR": "chien",
+    "Category": "big",
+    "SourceID": 7
+  },
+  {
+    "WordID": 193,
+    "Glottocode": "khoi1251",
+    "WordEN": "wood plank",
+    "WordFR": "planche de bois",
+    "Category": "flat",
+    "SourceID": 7
+  },
+  {
+    "WordID": 194,
+    "Glottocode": "khoi1251",
+    "WordEN": "paper sheet",
+    "WordFR": "feuille de papier",
+    "Category": "flat",
+    "SourceID": 7
+  },
+  {
+    "WordID": 195,
+    "Glottocode": "khoi1251",
+    "WordEN": "bread slice",
+    "WordFR": "nan",
+    "Category": "flat",
+    "SourceID": 7
+  },
+  {
+    "WordID": 196,
+    "Glottocode": "khoi1251",
+    "WordEN": "tear",
+    "WordFR": "larme",
+    "Category": "drops",
+    "SourceID": 7
+  },
+  {
+    "WordID": 197,
+    "Glottocode": "khoi1251",
+    "WordEN": "water",
+    "WordFR": "eau",
+    "Category": "drops",
+    "SourceID": 7
+  },
+  {
+    "WordID": 198,
+    "Glottocode": "khoi1251",
+    "WordEN": "honey",
+    "WordFR": "miel",
+    "Category": "drops",
+    "SourceID": 7
+  },
+  {
+    "WordID": 199,
+    "Glottocode": "khoi1251",
+    "WordEN": "rain",
+    "WordFR": "pluie",
+    "Category": "drops",
+    "SourceID": 7
+  },
+  {
+    "WordID": 200,
+    "Glottocode": "papa1265",
+    "WordEN": "mother",
+    "WordFR": "mère",
+    "Category": "personal",
+    "SourceID": 15
+  },
+  {
+    "WordID": 201,
+    "Glottocode": "papa1265",
+    "WordEN": "grandparent",
+    "WordFR": "grand-parent",
+    "Category": "personal",
+    "SourceID": 15
+  },
+  {
+    "WordID": 202,
+    "Glottocode": "papa1265",
+    "WordEN": "aunt",
+    "WordFR": "tante",
+    "Category": "personal",
+    "SourceID": 15
+  },
+  {
+    "WordID": 203,
+    "Glottocode": "papa1265",
+    "WordEN": "father",
+    "WordFR": "père",
+    "Category": "personal",
+    "SourceID": 15
+  },
+  {
+    "WordID": 204,
+    "Glottocode": "papa1265",
+    "WordEN": "mother-in-law",
+    "WordFR": "belle-mère",
+    "Category": "personal",
+    "SourceID": 15
+  },
+  {
+    "WordID": 205,
+    "Glottocode": "papa1265",
+    "WordEN": "son-in-law",
+    "WordFR": "gendre",
+    "Category": "personal",
+    "SourceID": 15
+  },
+  {
+    "WordID": 206,
+    "Glottocode": "papa1265",
+    "WordEN": "moon",
+    "WordFR": "lune",
+    "Category": "Class 1",
+    "SourceID": 15
+  },
+  {
+    "WordID": 207,
+    "Glottocode": "papa1265",
+    "WordEN": "day",
+    "WordFR": "jour",
+    "Category": "Class 1",
+    "SourceID": 15
+  },
+  {
+    "WordID": 208,
+    "Glottocode": "papa1265",
+    "WordEN": "rain",
+    "WordFR": "pluie",
+    "Category": "Class 1",
+    "SourceID": 15
+  },
+  {
+    "WordID": 209,
+    "Glottocode": "papa1265",
+    "WordEN": "earthquake",
+    "WordFR": "tremblement de terre",
+    "Category": "Class 1",
+    "SourceID": 15
+  },
+  {
+    "WordID": 210,
+    "Glottocode": "papa1265",
+    "WordEN": "hill",
+    "WordFR": "colline",
+    "Category": "Class 1",
+    "SourceID": 15
+  },
+  {
+    "WordID": 211,
+    "Glottocode": "papa1265",
+    "WordEN": "sea",
+    "WordFR": "mer",
+    "Category": "Class 1",
+    "SourceID": 15
+  },
+  {
+    "WordID": 212,
+    "Glottocode": "papa1265",
+    "WordEN": "river",
+    "WordFR": "rivière",
+    "Category": "Class 1",
+    "SourceID": 15
+  },
+  {
+    "WordID": 213,
+    "Glottocode": "papa1265",
+    "WordEN": "village",
+    "WordFR": "village",
+    "Category": "Class 1",
+    "SourceID": 15
+  },
+  {
+    "WordID": 214,
+    "Glottocode": "papa1265",
+    "WordEN": "god",
+    "WordFR": "Dieu",
+    "Category": "Class 1",
+    "SourceID": 15
+  },
+  {
+    "WordID": 215,
+    "Glottocode": "papa1265",
+    "WordEN": "friend",
+    "WordFR": "ami",
+    "Category": "Class 1",
+    "SourceID": 15
+  },
+  {
+    "WordID": 216,
+    "Glottocode": "papa1265",
+    "WordEN": "papaya",
+    "WordFR": "papaye",
+    "Category": "Class 1",
+    "SourceID": 15
+  },
+  {
+    "WordID": 217,
+    "Glottocode": "papa1265",
+    "WordEN": "boat",
+    "WordFR": "bateau",
+    "Category": "Class 1",
+    "SourceID": 15
+  },
+  {
+    "WordID": 218,
+    "Glottocode": "papa1265",
+    "WordEN": "door",
+    "WordFR": "porte",
+    "Category": "Class 1",
+    "SourceID": 15
+  },
+  {
+    "WordID": 219,
+    "Glottocode": "papa1265",
+    "WordEN": "soup",
+    "WordFR": "soupe",
+    "Category": "Class 2",
+    "SourceID": 15
+  },
+  {
+    "WordID": 220,
+    "Glottocode": "papa1265",
+    "WordEN": "fire",
+    "WordFR": "feu",
+    "Category": "Class 2",
+    "SourceID": 15
+  },
+  {
+    "WordID": 221,
+    "Glottocode": "papa1265",
+    "WordEN": "smoke",
+    "WordFR": "fumée",
+    "Category": "Class 2",
+    "SourceID": 15
+  },
+  {
+    "WordID": 222,
+    "Glottocode": "papa1265",
+    "WordEN": "head",
+    "WordFR": "tête",
+    "Category": "Class 2",
+    "SourceID": 15
+  },
+  {
+    "WordID": 223,
+    "Glottocode": "papa1265",
+    "WordEN": "snake",
+    "WordFR": "serpent",
+    "Category": "Class 2",
+    "SourceID": 15
+  },
+  {
+    "WordID": 224,
+    "Glottocode": "papa1265",
+    "WordEN": "canoe",
+    "WordFR": "canoë",
+    "Category": "Class 2",
+    "SourceID": 15
+  },
+  {
+    "WordID": 225,
+    "Glottocode": "papa1265",
+    "WordEN": "marriage",
+    "WordFR": "mariage",
+    "Category": "Class 2",
+    "SourceID": 15
+  },
+  {
+    "WordID": 226,
+    "Glottocode": "papa1265",
+    "WordEN": "death",
+    "WordFR": "la mort",
+    "Category": "Class 2",
+    "SourceID": 15
+  },
+  {
+    "WordID": 227,
+    "Glottocode": "papa1265",
+    "WordEN": "language",
+    "WordFR": "langage",
+    "Category": "Class 2",
+    "SourceID": 15
+  },
+  {
+    "WordID": 228,
+    "Glottocode": "papa1265",
+    "WordEN": "tomorrow",
+    "WordFR": "demain",
+    "Category": "Location",
+    "SourceID": 15
+  },
+  {
+    "WordID": 229,
+    "Glottocode": "papa1265",
+    "WordEN": "sunrise",
+    "WordFR": "lever du soleil",
+    "Category": "Location",
+    "SourceID": 15
+  },
+  {
+    "WordID": 230,
+    "Glottocode": "papa1265",
+    "WordEN": "evening",
+    "WordFR": "soir",
+    "Category": "Location",
+    "SourceID": 15
+  },
+  {
+    "WordID": 231,
+    "Glottocode": "papa1265",
+    "WordEN": "afternoon",
+    "WordFR": "après-midi",
+    "Category": "Location",
+    "SourceID": 15
+  },
+  {
+    "WordID": 232,
+    "Glottocode": "papa1265",
+    "WordEN": "night",
+    "WordFR": "nuit",
+    "Category": "Location",
+    "SourceID": 15
+  },
+  {
+    "WordID": 233,
+    "Glottocode": "plai1258",
+    "WordEN": "socks",
+    "WordFR": "chaussettes",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 234,
+    "Glottocode": "plai1258",
+    "WordEN": "raspberries",
+    "WordFR": "framboises",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 235,
+    "Glottocode": "plai1258",
+    "WordEN": "shoes",
+    "WordFR": "chaussures",
+    "Category": "inanimate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 236,
+    "Glottocode": "plai1258",
+    "WordEN": "strawberries",
+    "WordFR": "fraises",
+    "Category": "inanimate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 237,
+    "Glottocode": "plai1258",
+    "WordEN": "wolf",
+    "WordFR": "loup",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 238,
+    "Glottocode": "plai1258",
+    "WordEN": "soup",
+    "WordFR": "soupe",
+    "Category": "inanimate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 239,
+    "Glottocode": "plai1258",
+    "WordEN": "priest",
+    "WordFR": "prêtre",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 240,
+    "Glottocode": "plai1258",
+    "WordEN": "rabbit",
+    "WordFR": "lapin",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 241,
+    "Glottocode": "plai1258",
+    "WordEN": "bear",
+    "WordFR": "ours",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 242,
+    "Glottocode": "plai1258",
+    "WordEN": "woman",
+    "WordFR": "femme",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 243,
+    "Glottocode": "plai1258",
+    "WordEN": "frog",
+    "WordFR": "grenouille",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 244,
+    "Glottocode": "plai1258",
+    "WordEN": "elder",
+    "WordFR": "aîné",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 245,
+    "Glottocode": "plai1258",
+    "WordEN": "student",
+    "WordFR": "étudiant",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 246,
+    "Glottocode": "plai1258",
+    "WordEN": "child",
+    "WordFR": "enfant",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 247,
+    "Glottocode": "plai1258",
+    "WordEN": "snake",
+    "WordFR": "serpent",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 248,
+    "Glottocode": "plai1258",
+    "WordEN": "man",
+    "WordFR": "homme",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 249,
+    "Glottocode": "plai1258",
+    "WordEN": "fish",
+    "WordFR": "poisson",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 250,
+    "Glottocode": "plai1258",
+    "WordEN": "soul",
+    "WordFR": "âme",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 251,
+    "Glottocode": "plai1258",
+    "WordEN": "spirit",
+    "WordFR": "esprit",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 252,
+    "Glottocode": "plai1258",
+    "WordEN": "pipe",
+    "WordFR": "tuyau",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 253,
+    "Glottocode": "plai1258",
+    "WordEN": "body",
+    "WordFR": "corps",
+    "Category": "inanimate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 254,
+    "Glottocode": "plai1258",
+    "WordEN": "breasts",
+    "WordFR": "seins",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 255,
+    "Glottocode": "plai1258",
+    "WordEN": "water",
+    "WordFR": "eau",
+    "Category": "inanimate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 256,
+    "Glottocode": "plai1258",
+    "WordEN": "snow",
+    "WordFR": "neige",
+    "Category": "animate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 257,
+    "Glottocode": "plai1258",
+    "WordEN": "fire",
+    "WordFR": "feu",
+    "Category": "inanimate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 258,
+    "Glottocode": "plai1258",
+    "WordEN": "eggs",
+    "WordFR": "œufs",
+    "Category": "inanimate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 259,
+    "Glottocode": "plai1258",
+    "WordEN": "lake",
+    "WordFR": "lac",
+    "Category": "inanimate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 260,
+    "Glottocode": "plai1258",
+    "WordEN": "river",
+    "WordFR": "rivière",
+    "Category": "inanimate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 261,
+    "Glottocode": "plai1258",
+    "WordEN": "life",
+    "WordFR": "vie",
+    "Category": "inanimate",
+    "SourceID": 18
+  },
+  {
+    "WordID": 262,
+    "Glottocode": "jeme1245",
+    "WordEN": "man",
+    "WordFR": "homme",
+    "Category": "Class 1",
+    "SourceID": 19
+  },
+  {
+    "WordID": 263,
+    "Glottocode": "jeme1245",
+    "WordEN": "boy",
+    "WordFR": "garçon",
+    "Category": "Class 1",
+    "SourceID": 19
+  },
+  {
+    "WordID": 264,
+    "Glottocode": "jeme1245",
+    "WordEN": "woman",
+    "WordFR": "femme",
+    "Category": "Class 1",
+    "SourceID": 19
+  },
+  {
+    "WordID": 265,
+    "Glottocode": "jeme1245",
+    "WordEN": "buffalo",
+    "WordFR": "bison",
+    "Category": "Class 1",
+    "SourceID": 19
+  },
+  {
+    "WordID": 266,
+    "Glottocode": "jeme1245",
+    "WordEN": "dog",
+    "WordFR": "chien",
+    "Category": "Class 1",
+    "SourceID": 19
+  },
+  {
+    "WordID": 267,
+    "Glottocode": "jeme1245",
+    "WordEN": "ant",
+    "WordFR": "fourmi",
+    "Category": "Class 1",
+    "SourceID": 19
+  },
+  {
+    "WordID": 268,
+    "Glottocode": "jeme1245",
+    "WordEN": "egg",
+    "WordFR": "œuf",
+    "Category": "Class 1",
+    "SourceID": 19
+  },
+  {
+    "WordID": 269,
+    "Glottocode": "jeme1245",
+    "WordEN": "fork",
+    "WordFR": "fourchette",
+    "Category": "Class 2",
+    "SourceID": 19
+  },
+  {
+    "WordID": 270,
+    "Glottocode": "jeme1245",
+    "WordEN": "chair",
+    "WordFR": "chaise",
+    "Category": "Class 2",
+    "SourceID": 19
+  },
+  {
+    "WordID": 271,
+    "Glottocode": "jeme1245",
+    "WordEN": "arrow",
+    "WordFR": "flèche",
+    "Category": "Class 2",
+    "SourceID": 19
+  },
+  {
+    "WordID": 272,
+    "Glottocode": "jeme1245",
+    "WordEN": "house",
+    "WordFR": "maison",
+    "Category": "Class 2",
+    "SourceID": 19
+  },
+  {
+    "WordID": 273,
+    "Glottocode": "jeme1245",
+    "WordEN": "stick",
+    "WordFR": "bâton",
+    "Category": "Class 2",
+    "SourceID": 19
+  },
+  {
+    "WordID": 274,
+    "Glottocode": "jeme1245",
+    "WordEN": "drum",
+    "WordFR": "tambour",
+    "Category": "Class 2",
+    "SourceID": 19
+  },
+  {
+    "WordID": 275,
+    "Glottocode": "jeme1245",
+    "WordEN": "ear",
+    "WordFR": "oreille",
+    "Category": "Class 2",
+    "SourceID": 19
+  },
+  {
+    "WordID": 276,
+    "Glottocode": "jeme1245",
+    "WordEN": "nose",
+    "WordFR": "nez",
+    "Category": "Class 2",
+    "SourceID": 19
+  },
+  {
+    "WordID": 277,
+    "Glottocode": "jeme1245",
+    "WordEN": "head",
+    "WordFR": "tête",
+    "Category": "Class 2",
+    "SourceID": 19
+  },
+  {
+    "WordID": 278,
+    "Glottocode": "jeme1245",
+    "WordEN": "shoes",
+    "WordFR": "chaussures",
+    "Category": "Class 3",
+    "SourceID": 19
+  },
+  {
+    "WordID": 279,
+    "Glottocode": "jeme1245",
+    "WordEN": "pants",
+    "WordFR": "pantalon",
+    "Category": "Class 3",
+    "SourceID": 19
+  },
+  {
+    "WordID": 280,
+    "Glottocode": "jeme1245",
+    "WordEN": "belt",
+    "WordFR": "ceinture",
+    "Category": "Class 3",
+    "SourceID": 19
+  },
+  {
+    "WordID": 281,
+    "Glottocode": "jeme1245",
+    "WordEN": "hammer",
+    "WordFR": "marteau",
+    "Category": "Class 3",
+    "SourceID": 19
+  },
+  {
+    "WordID": 282,
+    "Glottocode": "jeme1245",
+    "WordEN": "ax",
+    "WordFR": "hache",
+    "Category": "Class 3",
+    "SourceID": 19
+  },
+  {
+    "WordID": 283,
+    "Glottocode": "jeme1245",
+    "WordEN": "pencil",
+    "WordFR": "crayon",
+    "Category": "Class 3",
+    "SourceID": 19
+  },
+  {
+    "WordID": 284,
+    "Glottocode": "jeme1245",
+    "WordEN": "banana",
+    "WordFR": "banane",
+    "Category": "Class 3",
+    "SourceID": 19
+  },
+  {
+    "WordID": 285,
+    "Glottocode": "jeme1245",
+    "WordEN": "sun",
+    "WordFR": "soleil",
+    "Category": "Class 3",
+    "SourceID": 19
+  },
+  {
+    "WordID": 286,
+    "Glottocode": "jeme1245",
+    "WordEN": "arm",
+    "WordFR": "bras",
+    "Category": "Class 3",
+    "SourceID": 19
+  },
+  {
+    "WordID": 287,
+    "Glottocode": "jeme1245",
+    "WordEN": "heart",
+    "WordFR": "cœur",
+    "Category": "Class 3",
+    "SourceID": 19
+  },
+  {
+    "WordID": 288,
+    "Glottocode": "abua1245",
+    "WordEN": "man",
+    "WordFR": "homme",
+    "Category": "Class 1",
+    "SourceID": 20
+  },
+  {
+    "WordID": 289,
+    "Glottocode": "abua1245",
+    "WordEN": "maternal uncle",
+    "WordFR": "oncle maternel",
+    "Category": "Class 1",
+    "SourceID": 20
+  },
+  {
+    "WordID": 290,
+    "Glottocode": "abua1245",
+    "WordEN": "god",
+    "WordFR": "Dieu",
+    "Category": "Class 1",
+    "SourceID": 20
+  },
+  {
+    "WordID": 291,
+    "Glottocode": "abua1245",
+    "WordEN": "jesus",
+    "WordFR": "Jésus",
+    "Category": "Class 1",
+    "SourceID": 20
+  },
+  {
+    "WordID": 292,
+    "Glottocode": "abua1245",
+    "WordEN": "father",
+    "WordFR": "père",
+    "Category": "Class 1",
+    "SourceID": 20
+  },
+  {
+    "WordID": 293,
+    "Glottocode": "abua1245",
+    "WordEN": "woman",
+    "WordFR": "femme",
+    "Category": "Class 2",
+    "SourceID": 20
+  },
+  {
+    "WordID": 294,
+    "Glottocode": "abua1245",
+    "WordEN": "daughter",
+    "WordFR": "fille",
+    "Category": "Class 2",
+    "SourceID": 20
+  },
+  {
+    "WordID": 295,
+    "Glottocode": "abua1245",
+    "WordEN": "female ghost",
+    "WordFR": "fantôme féminin",
+    "Category": "Class 2",
+    "SourceID": 20
+  },
+  {
+    "WordID": 296,
+    "Glottocode": "abua1245",
+    "WordEN": "coconut shell",
+    "WordFR": "coquille de noix de coco",
+    "Category": "Class 2",
+    "SourceID": 20
+  },
+  {
+    "WordID": 297,
+    "Glottocode": "abua1245",
+    "WordEN": "home",
+    "WordFR": "maison",
+    "Category": "Class 3",
+    "SourceID": 20
+  },
+  {
+    "WordID": 298,
+    "Glottocode": "abua1245",
+    "WordEN": "village",
+    "WordFR": "village",
+    "Category": "Class 3",
+    "SourceID": 20
+  },
+  {
+    "WordID": 299,
+    "Glottocode": "abua1245",
+    "WordEN": "spoon",
+    "WordFR": "cuillère",
+    "Category": "Class 3",
+    "SourceID": 20
+  },
+  {
+    "WordID": 300,
+    "Glottocode": "abua1245",
+    "WordEN": "fruit",
+    "WordFR": "fruit",
+    "Category": "Class 4",
+    "SourceID": 20
+  },
+  {
+    "WordID": 301,
+    "Glottocode": "abua1245",
+    "WordEN": "penis",
+    "WordFR": "pénis",
+    "Category": "Class 4",
+    "SourceID": 20
+  },
+  {
+    "WordID": 302,
+    "Glottocode": "abua1245",
+    "WordEN": "breadfruit seed",
+    "WordFR": "graines de fruit à pain",
+    "Category": "Class 4",
+    "SourceID": 20
+  },
+  {
+    "WordID": 303,
+    "Glottocode": "abua1245",
+    "WordEN": "banana",
+    "WordFR": "banane",
+    "Category": "Class 4",
+    "SourceID": 20
+  },
+  {
+    "WordID": 304,
+    "Glottocode": "abua1245",
+    "WordEN": "intestine",
+    "WordFR": "intestin",
+    "Category": "Class 5",
+    "SourceID": 20
+  },
+  {
+    "WordID": 305,
+    "Glottocode": "abua1245",
+    "WordEN": "egg",
+    "WordFR": "œuf",
+    "Category": "Class 5",
+    "SourceID": 20
+  },
+  {
+    "WordID": 306,
+    "Glottocode": "abua1245",
+    "WordEN": "water",
+    "WordFR": "eau",
+    "Category": "Class 5",
+    "SourceID": 20
+  },
+  {
+    "WordID": 307,
+    "Glottocode": "abua1245",
+    "WordEN": "coconut",
+    "WordFR": "noix de coco",
+    "Category": "Class 5",
+    "SourceID": 20
+  },
+  {
+    "WordID": 308,
+    "Glottocode": "abua1245",
+    "WordEN": "thunder",
+    "WordFR": "tonnerre",
+    "Category": "Class 5",
+    "SourceID": 20
+  },
+  {
+    "WordID": 309,
+    "Glottocode": "abua1245",
+    "WordEN": "banana tree",
+    "WordFR": "bananier",
+    "Category": "Class 6",
+    "SourceID": 20
+  },
+  {
+    "WordID": 310,
+    "Glottocode": "abua1245",
+    "WordEN": "house",
+    "WordFR": "maison",
+    "Category": "Class 6",
+    "SourceID": 20
+  },
+  {
+    "WordID": 311,
+    "Glottocode": "abua1245",
+    "WordEN": "rib",
+    "WordFR": "côte",
+    "Category": "Class 6",
+    "SourceID": 20
+  },
+  {
+    "WordID": 312,
+    "Glottocode": "abua1245",
+    "WordEN": "urine",
+    "WordFR": "urine",
+    "Category": "Class 6",
+    "SourceID": 20
+  },
+  {
+    "WordID": 313,
+    "Glottocode": "abua1245",
+    "WordEN": "vomit",
+    "WordFR": "vomi",
+    "Category": "Class 6",
+    "SourceID": 20
+  },
+  {
+    "WordID": 314,
+    "Glottocode": "abua1245",
+    "WordEN": "rice",
+    "WordFR": "riz",
+    "Category": "Class 6",
+    "SourceID": 20
+  },
+  {
+    "WordID": 315,
+    "Glottocode": "abua1245",
+    "WordEN": "tree",
+    "WordFR": "arbre",
+    "Category": "Class 7",
+    "SourceID": 20
+  },
+  {
+    "WordID": 316,
+    "Glottocode": "abua1245",
+    "WordEN": "face",
+    "WordFR": "visage",
+    "Category": "Class 7",
+    "SourceID": 20
+  },
+  {
+    "WordID": 317,
+    "Glottocode": "abua1245",
+    "WordEN": "neck",
+    "WordFR": "cou",
+    "Category": "Class 7",
+    "SourceID": 20
+  },
+  {
+    "WordID": 318,
+    "Glottocode": "abua1245",
+    "WordEN": "tongue",
+    "WordFR": "langue",
+    "Category": "Class 7",
+    "SourceID": 20
+  },
+  {
+    "WordID": 319,
+    "Glottocode": "abua1245",
+    "WordEN": "head",
+    "WordFR": "tête",
+    "Category": "Class 7",
+    "SourceID": 20
+  },
+  {
+    "WordID": 320,
+    "Glottocode": "abua1245",
+    "WordEN": "ant",
+    "WordFR": "fourmi",
+    "Category": "Class 7",
+    "SourceID": 20
+  },
+  {
+    "WordID": 321,
+    "Glottocode": "abua1245",
+    "WordEN": "pig",
+    "WordFR": "cochon",
+    "Category": "Class 8",
+    "SourceID": 20
+  },
+  {
+    "WordID": 322,
+    "Glottocode": "abua1245",
+    "WordEN": "bird",
+    "WordFR": "oiseau",
+    "Category": "Class 8",
+    "SourceID": 20
+  },
+  {
+    "WordID": 323,
+    "Glottocode": "abua1245",
+    "WordEN": "snake",
+    "WordFR": "serpent",
+    "Category": "Class 8",
+    "SourceID": 20
+  },
+  {
+    "WordID": 324,
+    "Glottocode": "abua1245",
+    "WordEN": "fish",
+    "WordFR": "poisson",
+    "Category": "Class 8",
+    "SourceID": 20
+  },
+  {
+    "WordID": 325,
+    "Glottocode": "abua1245",
+    "WordEN": "bone",
+    "WordFR": "os",
+    "Category": "Class 8",
+    "SourceID": 20
+  },
+  {
+    "WordID": 326,
+    "Glottocode": "abua1245",
+    "WordEN": "stick",
+    "WordFR": "bâton",
+    "Category": "Class 8",
+    "SourceID": 20
+  },
+  {
+    "WordID": 327,
+    "Glottocode": "abua1245",
+    "WordEN": "leech",
+    "WordFR": "sangsue",
+    "Category": "Class 8",
+    "SourceID": 20
+  },
+  {
+    "WordID": 328,
+    "Glottocode": "abua1245",
+    "WordEN": "fig tree",
+    "WordFR": "figuier",
+    "Category": "Class 9",
+    "SourceID": 20
+  },
+  {
+    "WordID": 329,
+    "Glottocode": "abua1245",
+    "WordEN": "butterfly",
+    "WordFR": "papillon",
+    "Category": "Class 9",
+    "SourceID": 20
+  },
+  {
+    "WordID": 330,
+    "Glottocode": "abua1245",
+    "WordEN": "sago palm",
+    "WordFR": "sagoutier",
+    "Category": "Class 9",
+    "SourceID": 20
+  },
+  {
+    "WordID": 331,
+    "Glottocode": "abua1245",
+    "WordEN": "knife",
+    "WordFR": "couteau",
+    "Category": "Class 10",
+    "SourceID": 20
+  },
+  {
+    "WordID": 332,
+    "Glottocode": "abua1245",
+    "WordEN": "fire",
+    "WordFR": "feu",
+    "Category": "Class 10",
+    "SourceID": 20
+  },
+  {
+    "WordID": 333,
+    "Glottocode": "abua1245",
+    "WordEN": "shadow",
+    "WordFR": "ombre",
+    "Category": "Class 10",
+    "SourceID": 20
+  },
+  {
+    "WordID": 334,
+    "Glottocode": "abua1245",
+    "WordEN": "radio",
+    "WordFR": "radio",
+    "Category": "Class 11",
+    "SourceID": 20
+  },
+  {
+    "WordID": 335,
+    "Glottocode": "abua1245",
+    "WordEN": "television",
+    "WordFR": "télévision",
+    "Category": "Class 11",
+    "SourceID": 20
+  },
+  {
+    "WordID": 336,
+    "Glottocode": "abua1245",
+    "WordEN": "computer",
+    "WordFR": "ordinateur",
+    "Category": "Class 11",
+    "SourceID": 20
+  },
+  {
+    "WordID": 337,
+    "Glottocode": "abua1245",
+    "WordEN": "hornbill",
+    "WordFR": "calao",
+    "Category": "Class 11",
+    "SourceID": 20
+  },
+  {
+    "WordID": 338,
+    "Glottocode": "abua1245",
+    "WordEN": "spoon",
+    "WordFR": "cuillère",
+    "Category": "Class 11",
+    "SourceID": 20
+  },
+  {
+    "WordID": 339,
+    "Glottocode": "abua1245",
+    "WordEN": "button",
+    "WordFR": "bouton",
+    "Category": "Class 11",
+    "SourceID": 20
+  },
+  {
+    "WordID": 340,
+    "Glottocode": "ache1245",
+    "WordEN": "pole",
+    "WordFR": "pôle",
+    "Category": "long",
+    "SourceID": 21
+  },
+  {
+    "WordID": 341,
+    "Glottocode": "ache1245",
+    "WordEN": "rope",
+    "WordFR": "corde",
+    "Category": "long",
+    "SourceID": 21
+  },
+  {
+    "WordID": 342,
+    "Glottocode": "ache1245",
+    "WordEN": "tongue",
+    "WordFR": "langue",
+    "Category": "long",
+    "SourceID": 21
+  },
+  {
+    "WordID": 343,
+    "Glottocode": "ache1245",
+    "WordEN": "year",
+    "WordFR": "année",
+    "Category": "long",
+    "SourceID": 21
+  },
+  {
+    "WordID": 344,
+    "Glottocode": "ache1245",
+    "WordEN": "dog",
+    "WordFR": "chien",
+    "Category": "long",
+    "SourceID": 21
+  },
+  {
+    "WordID": 345,
+    "Glottocode": "ache1245",
+    "WordEN": "camel",
+    "WordFR": "chameau",
+    "Category": "long",
+    "SourceID": 21
+  },
+  {
+    "WordID": 346,
+    "Glottocode": "ache1245",
+    "WordEN": "sheep",
+    "WordFR": "mouton",
+    "Category": "long",
+    "SourceID": 21
+  },
+  {
+    "WordID": 347,
+    "Glottocode": "ache1245",
+    "WordEN": "pot",
+    "WordFR": "pot",
+    "Category": "hollow",
+    "SourceID": 21
+  },
+  {
+    "WordID": 348,
+    "Glottocode": "ache1245",
+    "WordEN": "container",
+    "WordFR": "récipient",
+    "Category": "hollow",
+    "SourceID": 21
+  },
+  {
+    "WordID": 349,
+    "Glottocode": "ache1245",
+    "WordEN": "building",
+    "WordFR": "bâtiment",
+    "Category": "hollow",
+    "SourceID": 21
+  },
+  {
+    "WordID": 350,
+    "Glottocode": "ache1245",
+    "WordEN": "god",
+    "WordFR": "Dieu",
+    "Category": "hollow",
+    "SourceID": 21
+  },
+  {
+    "WordID": 351,
+    "Glottocode": "ache1245",
+    "WordEN": "old man",
+    "WordFR": "vieillard",
+    "Category": "hollow",
+    "SourceID": 21
+  },
+  {
+    "WordID": 352,
+    "Glottocode": "ache1245",
+    "WordEN": "old woman",
+    "WordFR": "vieille",
+    "Category": "hollow",
+    "SourceID": 21
+  },
+  {
+    "WordID": 353,
+    "Glottocode": "ache1245",
+    "WordEN": "corpse",
+    "WordFR": "cadavre",
+    "Category": "hollow",
+    "SourceID": 21
+  },
+  {
+    "WordID": 354,
+    "Glottocode": "ache1245",
+    "WordEN": "grass",
+    "WordFR": "herbe",
+    "Category": "wiry",
+    "SourceID": 21
+  },
+  {
+    "WordID": 355,
+    "Glottocode": "ache1245",
+    "WordEN": "body hair",
+    "WordFR": "poils du corps",
+    "Category": "wiry",
+    "SourceID": 21
+  },
+  {
+    "WordID": 356,
+    "Glottocode": "ache1245",
+    "WordEN": "lip",
+    "WordFR": "lèvre",
+    "Category": "body parts 1",
+    "SourceID": 21
+  },
+  {
+    "WordID": 357,
+    "Glottocode": "ache1245",
+    "WordEN": "rib",
+    "WordFR": "côte",
+    "Category": "body parts 1",
+    "SourceID": 21
+  },
+  {
+    "WordID": 358,
+    "Glottocode": "ache1245",
+    "WordEN": "cheek",
+    "WordFR": "joue",
+    "Category": "body parts 1",
+    "SourceID": 21
+  },
+  {
+    "WordID": 359,
+    "Glottocode": "ache1245",
+    "WordEN": "vein",
+    "WordFR": "veine",
+    "Category": "body parts 1",
+    "SourceID": 21
+  },
+  {
+    "WordID": 360,
+    "Glottocode": "ache1245",
+    "WordEN": "spotted animal",
+    "WordFR": "animal tacheté",
+    "Category": "body parts 1",
+    "SourceID": 21
+  },
+  {
+    "WordID": 361,
+    "Glottocode": "ache1245",
+    "WordEN": "left-handed person",
+    "WordFR": "gaucher",
+    "Category": "body parts 1",
+    "SourceID": 21
+  },
+  {
+    "WordID": 362,
+    "Glottocode": "ache1245",
+    "WordEN": "spear",
+    "WordFR": "lance",
+    "Category": "body parts 1",
+    "SourceID": 21
+  },
+  {
+    "WordID": 363,
+    "Glottocode": "ache1245",
+    "WordEN": "shield",
+    "WordFR": "bouclier",
+    "Category": "body parts 1",
+    "SourceID": 21
+  },
+  {
+    "WordID": 364,
+    "Glottocode": "ache1245",
+    "WordEN": "shoes",
+    "WordFR": "chaussures",
+    "Category": "body parts 1",
+    "SourceID": 21
+  },
+  {
+    "WordID": 365,
+    "Glottocode": "ache1245",
+    "WordEN": "moon",
+    "WordFR": "lune",
+    "Category": "body parts 1",
+    "SourceID": 21
+  },
+  {
+    "WordID": 366,
+    "Glottocode": "ache1245",
+    "WordEN": "honey",
+    "WordFR": "miel",
+    "Category": "body parts 1",
+    "SourceID": 21
+  },
+  {
+    "WordID": 367,
+    "Glottocode": "ache1245",
+    "WordEN": "man",
+    "WordFR": "homme",
+    "Category": "persons",
+    "SourceID": 21
+  },
+  {
+    "WordID": 368,
+    "Glottocode": "ache1245",
+    "WordEN": "woman",
+    "WordFR": "femme",
+    "Category": "persons",
+    "SourceID": 21
+  },
+  {
+    "WordID": 369,
+    "Glottocode": "ache1245",
+    "WordEN": "eye",
+    "WordFR": "œil",
+    "Category": "body parts 2",
+    "SourceID": 21
+  },
+  {
+    "WordID": 370,
+    "Glottocode": "ache1245",
+    "WordEN": "tooth",
+    "WordFR": "dent",
+    "Category": "body parts 2",
+    "SourceID": 21
+  },
+  {
+    "WordID": 371,
+    "Glottocode": "ache1245",
+    "WordEN": "neck",
+    "WordFR": "cou",
+    "Category": "body parts 2",
+    "SourceID": 21
+  },
+  {
+    "WordID": 372,
+    "Glottocode": "ache1245",
+    "WordEN": "breasts",
+    "WordFR": "seins",
+    "Category": "body parts 2",
+    "SourceID": 21
+  },
+  {
+    "WordID": 373,
+    "Glottocode": "ache1245",
+    "WordEN": "belly",
+    "WordFR": "ventre",
+    "Category": "body parts 2",
+    "SourceID": 21
+  },
+  {
+    "WordID": 374,
+    "Glottocode": "ache1245",
+    "WordEN": "blood",
+    "WordFR": "sang",
+    "Category": "liquids",
+    "SourceID": 21
+  },
+  {
+    "WordID": 375,
+    "Glottocode": "ache1245",
+    "WordEN": "water",
+    "WordFR": "eau",
+    "Category": "liquids",
+    "SourceID": 21
+  },
+  {
+    "WordID": 376,
+    "Glottocode": "ache1245",
+    "WordEN": "milk",
+    "WordFR": "lait",
+    "Category": "liquids",
+    "SourceID": 21
+  },
+  {
+    "WordID": 377,
+    "Glottocode": "sapo1253",
+    "WordEN": "house",
+    "WordFR": "maison",
+    "Category": "Common 1",
+    "SourceID": 22
+  },
+  {
+    "WordID": 378,
+    "Glottocode": "sapo1253",
+    "WordEN": "man",
+    "WordFR": "homme",
+    "Category": "Common 1",
+    "SourceID": 22
+  },
+  {
+    "WordID": 379,
+    "Glottocode": "sapo1253",
+    "WordEN": "woman",
+    "WordFR": "femme",
+    "Category": "Common 1",
+    "SourceID": 22
+  },
+  {
+    "WordID": 380,
+    "Glottocode": "sapo1253",
+    "WordEN": "bamboo",
+    "WordFR": "bambou",
+    "Category": "Common 2",
+    "SourceID": 22
+  },
+  {
+    "WordID": 381,
+    "Glottocode": "sapo1253",
+    "WordEN": "canoe",
+    "WordFR": "canoë",
+    "Category": "Common 2",
+    "SourceID": 22
+  },
+  {
+    "WordID": 382,
+    "Glottocode": "sapo1253",
+    "WordEN": "medicine",
+    "WordFR": "médecine",
+    "Category": "Common 2",
+    "SourceID": 22
+  },
+  {
+    "WordID": 383,
+    "Glottocode": "aghe1239",
+    "WordEN": "man",
+    "WordFR": "homme",
+    "Category": "Class 1/2",
+    "SourceID": 23
+  },
+  {
+    "WordID": 384,
+    "Glottocode": "aghe1239",
+    "WordEN": "woman",
+    "WordFR": "femme",
+    "Category": "Class 1/2",
+    "SourceID": 23
+  },
+  {
+    "WordID": 385,
+    "Glottocode": "aghe1239",
+    "WordEN": "thief",
+    "WordFR": "voleur",
+    "Category": "Class 1/2",
+    "SourceID": 23
+  },
+  {
+    "WordID": 386,
+    "Glottocode": "aghe1239",
+    "WordEN": "friend",
+    "WordFR": "ami",
+    "Category": "Class 1/2",
+    "SourceID": 23
+  },
+  {
+    "WordID": 387,
+    "Glottocode": "aghe1239",
+    "WordEN": "body",
+    "WordFR": "corps",
+    "Category": "Class 3/4",
+    "SourceID": 23
+  },
+  {
+    "WordID": 388,
+    "Glottocode": "aghe1239",
+    "WordEN": "throat",
+    "WordFR": "gorge",
+    "Category": "Class 3/4",
+    "SourceID": 23
+  },
+  {
+    "WordID": 389,
+    "Glottocode": "aghe1239",
+    "WordEN": "face",
+    "WordFR": "visage",
+    "Category": "Class 3/4",
+    "SourceID": 23
+  },
+  {
+    "WordID": 390,
+    "Glottocode": "aghe1239",
+    "WordEN": "mountain",
+    "WordFR": "montagne",
+    "Category": "Class 3/4",
+    "SourceID": 23
+  },
+  {
+    "WordID": 391,
+    "Glottocode": "aghe1239",
+    "WordEN": "mortar",
+    "WordFR": "mortier",
+    "Category": "Class 3/4",
+    "SourceID": 23
+  },
+  {
+    "WordID": 392,
+    "Glottocode": "aghe1239",
+    "WordEN": "crab",
+    "WordFR": "crabe",
+    "Category": "Class 5/6",
+    "SourceID": 23
+  },
+  {
+    "WordID": 393,
+    "Glottocode": "aghe1239",
+    "WordEN": "pumpkin",
+    "WordFR": "citrouille",
+    "Category": "Class 5/6",
+    "SourceID": 23
+  },
+  {
+    "WordID": 394,
+    "Glottocode": "aghe1239",
+    "WordEN": "yam",
+    "WordFR": "patate douce",
+    "Category": "Class 5/6",
+    "SourceID": 23
+  },
+  {
+    "WordID": 395,
+    "Glottocode": "aghe1239",
+    "WordEN": "tooth",
+    "WordFR": "dent",
+    "Category": "Class 5/6",
+    "SourceID": 23
+  },
+  {
+    "WordID": 396,
+    "Glottocode": "aghe1239",
+    "WordEN": "navel",
+    "WordFR": "nombril",
+    "Category": "Class 5/6",
+    "SourceID": 23
+  },
+  {
+    "WordID": 397,
+    "Glottocode": "aghe1239",
+    "WordEN": "breasts",
+    "WordFR": "seins",
+    "Category": "Class 5/6",
+    "SourceID": 23
+  },
+  {
+    "WordID": 398,
+    "Glottocode": "aghe1239",
+    "WordEN": "cheek",
+    "WordFR": "joue",
+    "Category": "Class 7/8",
+    "SourceID": 23
+  },
+  {
+    "WordID": 399,
+    "Glottocode": "aghe1239",
+    "WordEN": "tongue",
+    "WordFR": "langue",
+    "Category": "Class 7/8",
+    "SourceID": 23
+  },
+  {
+    "WordID": 400,
+    "Glottocode": "aghe1239",
+    "WordEN": "bone",
+    "WordFR": "os",
+    "Category": "Class 7/8",
+    "SourceID": 23
+  },
+  {
+    "WordID": 401,
+    "Glottocode": "aghe1239",
+    "WordEN": "thing",
+    "WordFR": "chose",
+    "Category": "Class 7/8",
+    "SourceID": 23
+  },
+  {
+    "WordID": 402,
+    "Glottocode": "aghe1239",
+    "WordEN": "hand piano",
+    "WordFR": "piano à main",
+    "Category": "Class 7/8",
+    "SourceID": 23
+  },
+  {
+    "WordID": 403,
+    "Glottocode": "aghe1239",
+    "WordEN": "cricket",
+    "WordFR": "cricket",
+    "Category": "Class 7/8",
+    "SourceID": 23
+  },
+  {
+    "WordID": 404,
+    "Glottocode": "aghe1239",
+    "WordEN": "monkey",
+    "WordFR": "singe",
+    "Category": "Class 7/8",
+    "SourceID": 23
+  },
+  {
+    "WordID": 405,
+    "Glottocode": "aghe1239",
+    "WordEN": "plantain",
+    "WordFR": "plantain",
+    "Category": "Class 7/8",
+    "SourceID": 23
+  },
+  {
+    "WordID": 406,
+    "Glottocode": "aghe1239",
+    "WordEN": "fufu",
+    "WordFR": "fufu (nom de plat)",
+    "Category": "Class 7/8",
+    "SourceID": 23
+  },
+  {
+    "WordID": 407,
+    "Glottocode": "aghe1239",
+    "WordEN": "rope",
+    "WordFR": "corde",
+    "Category": "Class 7/8",
+    "SourceID": 23
+  },
+  {
+    "WordID": 408,
+    "Glottocode": "aghe1239",
+    "WordEN": "leopard",
+    "WordFR": "léopard",
+    "Category": "Class 7/8",
+    "SourceID": 23
+  },
+  {
+    "WordID": 409,
+    "Glottocode": "aghe1239",
+    "WordEN": "road",
+    "WordFR": "route",
+    "Category": "Class 9/10",
+    "SourceID": 23
+  },
+  {
+    "WordID": 410,
+    "Glottocode": "aghe1239",
+    "WordEN": "message",
+    "WordFR": "message",
+    "Category": "Class 9/10",
+    "SourceID": 23
+  },
+  {
+    "WordID": 411,
+    "Glottocode": "aghe1239",
+    "WordEN": "axe",
+    "WordFR": "hache",
+    "Category": "Class 9/10",
+    "SourceID": 23
+  },
+  {
+    "WordID": 412,
+    "Glottocode": "aghe1239",
+    "WordEN": "house",
+    "WordFR": "maison",
+    "Category": "Class 9/10",
+    "SourceID": 23
+  },
+  {
+    "WordID": 413,
+    "Glottocode": "aghe1239",
+    "WordEN": "animal",
+    "WordFR": "animal",
+    "Category": "Class 9/10",
+    "SourceID": 23
+  },
+  {
+    "WordID": 414,
+    "Glottocode": "aghe1239",
+    "WordEN": "goat",
+    "WordFR": "chèvre",
+    "Category": "Class 9/10",
+    "SourceID": 23
+  },
+  {
+    "WordID": 415,
+    "Glottocode": "aghe1239",
+    "WordEN": "snake",
+    "WordFR": "serpent",
+    "Category": "Class 9/10",
+    "SourceID": 23
+  },
+  {
+    "WordID": 416,
+    "Glottocode": "aghe1239",
+    "WordEN": "cow",
+    "WordFR": "vache",
+    "Category": "Class 9/10",
+    "SourceID": 23
+  },
+  {
+    "WordID": 417,
+    "Glottocode": "aghe1239",
+    "WordEN": "chicken",
+    "WordFR": "poule",
+    "Category": "Class 9/10",
+    "SourceID": 23
+  },
+  {
+    "WordID": 418,
+    "Glottocode": "aghe1239",
+    "WordEN": "voice",
+    "WordFR": "voix",
+    "Category": "Class 9/10",
+    "SourceID": 23
+  },
+  {
+    "WordID": 419,
+    "Glottocode": "aghe1239",
+    "WordEN": "hunger",
+    "WordFR": "faim",
+    "Category": "Class 9/10",
+    "SourceID": 23
+  },
+  {
+    "WordID": 420,
+    "Glottocode": "aghe1239",
+    "WordEN": "pot",
+    "WordFR": "pot",
+    "Category": "Class 9/10",
+    "SourceID": 23
+  },
+  {
+    "WordID": 421,
+    "Glottocode": "aghe1239",
+    "WordEN": "war",
+    "WordFR": "guerre",
+    "Category": "Class 9/10",
+    "SourceID": 23
+  },
+  {
+    "WordID": 422,
+    "Glottocode": "aghe1239",
+    "WordEN": "bush",
+    "WordFR": "buisson",
+    "Category": "Class 9/10",
+    "SourceID": 23
+  },
+  {
+    "WordID": 423,
+    "Glottocode": "aghe1239",
+    "WordEN": "moon",
+    "WordFR": "lune",
+    "Category": "Class 9/10",
+    "SourceID": 23
+  },
+  {
+    "WordID": 424,
+    "Glottocode": "aghe1239",
+    "WordEN": "mat",
+    "WordFR": "tapis",
+    "Category": "Class 11/12",
+    "SourceID": 23
+  },
+  {
+    "WordID": 425,
+    "Glottocode": "aghe1239",
+    "WordEN": "needle",
+    "WordFR": "aiguille",
+    "Category": "Class 11/12",
+    "SourceID": 23
+  },
+  {
+    "WordID": 426,
+    "Glottocode": "aghe1239",
+    "WordEN": "tree",
+    "WordFR": "arbre",
+    "Category": "Class 11/12",
+    "SourceID": 23
+  },
+  {
+    "WordID": 427,
+    "Glottocode": "khar1287",
+    "WordEN": "people",
+    "WordFR": "personnes",
+    "Category": "human",
+    "SourceID": 6
+  },
+  {
+    "WordID": 428,
+    "Glottocode": "khar1287",
+    "WordEN": "brother",
+    "WordFR": "frère",
+    "Category": "human",
+    "SourceID": 6
+  },
+  {
+    "WordID": 429,
+    "Glottocode": "khar1287",
+    "WordEN": "stone",
+    "WordFR": "pierre",
+    "Category": "Non-human",
+    "SourceID": 6
+  },
+  {
+    "WordID": 430,
+    "Glottocode": "khar1287",
+    "WordEN": "river",
+    "WordFR": "rivière",
+    "Category": "Non-human",
+    "SourceID": 6
+  },
+  {
+    "WordID": 431,
+    "Glottocode": "khar1287",
+    "WordEN": "ox",
+    "WordFR": "bœuf",
+    "Category": "Non-human",
+    "SourceID": 6
+  },
+  {
+    "WordID": 432,
+    "Glottocode": "khar1287",
+    "WordEN": "table",
+    "WordFR": "tableau",
+    "Category": "Non-human",
+    "SourceID": 6
+  },
+  {
+    "WordID": 433,
+    "Glottocode": "omah1247",
+    "WordEN": "pencil",
+    "WordFR": "crayon",
+    "Category": "horizontal, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 434,
+    "Glottocode": "omah1247",
+    "WordEN": "orange",
+    "WordFR": "orange",
+    "Category": "round, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 435,
+    "Glottocode": "omah1247",
+    "WordEN": "door",
+    "WordFR": "porte",
+    "Category": "vertical, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 436,
+    "Glottocode": "omah1247",
+    "WordEN": "table",
+    "WordFR": "tableau",
+    "Category": "scattered, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 437,
+    "Glottocode": "omah1247",
+    "WordEN": "teeth",
+    "WordFR": "dents",
+    "Category": "horizontal, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 438,
+    "Glottocode": "omah1247",
+    "WordEN": "sky",
+    "WordFR": "ciel",
+    "Category": "horizontal, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 439,
+    "Glottocode": "omah1247",
+    "WordEN": "foot",
+    "WordFR": "pied",
+    "Category": "horizontal, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 440,
+    "Glottocode": "omah1247",
+    "WordEN": "wood",
+    "WordFR": "bois",
+    "Category": "horizontal, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 441,
+    "Glottocode": "omah1247",
+    "WordEN": "ground",
+    "WordFR": "sol",
+    "Category": "horizontal, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 442,
+    "Glottocode": "omah1247",
+    "WordEN": "snow",
+    "WordFR": "neige",
+    "Category": "horizontal, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 443,
+    "Glottocode": "omah1247",
+    "WordEN": "creek",
+    "WordFR": "ruisseau",
+    "Category": "horizontal, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 444,
+    "Glottocode": "omah1247",
+    "WordEN": "bone",
+    "WordFR": "os",
+    "Category": "horizontal, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 445,
+    "Glottocode": "omah1247",
+    "WordEN": "trail",
+    "WordFR": "piste",
+    "Category": "horizontal, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 446,
+    "Glottocode": "omah1247",
+    "WordEN": "arrow",
+    "WordFR": "flèche",
+    "Category": "horizontal, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 447,
+    "Glottocode": "omah1247",
+    "WordEN": "footprint",
+    "WordFR": "empreinte",
+    "Category": "horizontal, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 448,
+    "Glottocode": "omah1247",
+    "WordEN": "head",
+    "WordFR": "tête",
+    "Category": "round, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 449,
+    "Glottocode": "omah1247",
+    "WordEN": "sun",
+    "WordFR": "soleil",
+    "Category": "round, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 450,
+    "Glottocode": "omah1247",
+    "WordEN": "vagina",
+    "WordFR": "vagin",
+    "Category": "round, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 451,
+    "Glottocode": "omah1247",
+    "WordEN": "eye",
+    "WordFR": "œil",
+    "Category": "round, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 452,
+    "Glottocode": "omah1247",
+    "WordEN": "stomach",
+    "WordFR": "estomac",
+    "Category": "round, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 453,
+    "Glottocode": "omah1247",
+    "WordEN": "night",
+    "WordFR": "nuit",
+    "Category": "vertical, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 454,
+    "Glottocode": "omah1247",
+    "WordEN": "fire",
+    "WordFR": "feu",
+    "Category": "vertical, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 455,
+    "Glottocode": "omah1247",
+    "WordEN": "feather",
+    "WordFR": "plume",
+    "Category": "vertical, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 456,
+    "Glottocode": "omah1247",
+    "WordEN": "tree",
+    "WordFR": "arbre",
+    "Category": "vertical, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 457,
+    "Glottocode": "omah1247",
+    "WordEN": "voice",
+    "WordFR": "voix",
+    "Category": "vertical, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 458,
+    "Glottocode": "omah1247",
+    "WordEN": "hand",
+    "WordFR": "main",
+    "Category": "vertical, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 459,
+    "Glottocode": "omah1247",
+    "WordEN": "song",
+    "WordFR": "chanson",
+    "Category": "vertical, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 460,
+    "Glottocode": "omah1247",
+    "WordEN": "bed",
+    "WordFR": "lit",
+    "Category": "scattered, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 461,
+    "Glottocode": "omah1247",
+    "WordEN": "lodge",
+    "WordFR": "loge",
+    "Category": "scattered, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 462,
+    "Glottocode": "omah1247",
+    "WordEN": "iron",
+    "WordFR": "fer",
+    "Category": "scattered, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 463,
+    "Glottocode": "omah1247",
+    "WordEN": "stream",
+    "WordFR": "flux",
+    "Category": "scattered, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 464,
+    "Glottocode": "omah1247",
+    "WordEN": "turtle shell",
+    "WordFR": "carapace de tortue",
+    "Category": "scattered, inanimate",
+    "SourceID": 9
+  },
+  {
+    "WordID": 465,
+    "Glottocode": "alag1248",
+    "WordEN": "vegetable",
+    "WordFR": "légume",
+    "Category": "feminine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 466,
+    "Glottocode": "alag1248",
+    "WordEN": "grass",
+    "WordFR": "herbe",
+    "Category": "feminine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 467,
+    "Glottocode": "alag1248",
+    "WordEN": "grain",
+    "WordFR": "graine",
+    "Category": "feminine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 468,
+    "Glottocode": "alag1248",
+    "WordEN": "grandmother",
+    "WordFR": "grand-mère",
+    "Category": "feminine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 469,
+    "Glottocode": "alag1248",
+    "WordEN": "witch",
+    "WordFR": "sorcière",
+    "Category": "feminine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 470,
+    "Glottocode": "alag1248",
+    "WordEN": "road",
+    "WordFR": "route",
+    "Category": "feminine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 471,
+    "Glottocode": "alag1248",
+    "WordEN": "beans",
+    "WordFR": "haricots",
+    "Category": "feminine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 472,
+    "Glottocode": "alag1248",
+    "WordEN": "boys",
+    "WordFR": "garçons",
+    "Category": "feminine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 473,
+    "Glottocode": "alag1248",
+    "WordEN": "wound",
+    "WordFR": "blessure",
+    "Category": "masculine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 474,
+    "Glottocode": "alag1248",
+    "WordEN": "dog",
+    "WordFR": "chien",
+    "Category": "masculine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 475,
+    "Glottocode": "alag1248",
+    "WordEN": "grass",
+    "WordFR": "herbe",
+    "Category": "masculine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 476,
+    "Glottocode": "alag1248",
+    "WordEN": "lizard",
+    "WordFR": "lézard",
+    "Category": "masculine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 477,
+    "Glottocode": "alag1248",
+    "WordEN": "calabash",
+    "WordFR": "calebasse",
+    "Category": "masculine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 478,
+    "Glottocode": "alag1248",
+    "WordEN": "mushroom",
+    "WordFR": "champignon",
+    "Category": "masculine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 479,
+    "Glottocode": "alag1248",
+    "WordEN": "buffalo",
+    "WordFR": "bison",
+    "Category": "feminine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 480,
+    "Glottocode": "alag1248",
+    "WordEN": "castrated bull",
+    "WordFR": "taureau castré",
+    "Category": "feminine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 481,
+    "Glottocode": "alag1248",
+    "WordEN": "breasts",
+    "WordFR": "seins",
+    "Category": "masculine",
+    "SourceID": 28
+  },
+  {
+    "WordID": 482,
+    "Glottocode": "alag1248",
+    "WordEN": "child",
+    "WordFR": "enfant",
+    "Category": "neuter",
+    "SourceID": 28
+  },
+  {
+    "WordID": 483,
+    "Glottocode": "alag1248",
+    "WordEN": "woman",
+    "WordFR": "femme",
+    "Category": "neuter",
+    "SourceID": 28
+  },
+  {
+    "WordID": 484,
+    "Glottocode": "alag1248",
+    "WordEN": "cattle",
+    "WordFR": "bétail",
+    "Category": "neuter",
+    "SourceID": 28
+  },
+  {
+    "WordID": 485,
+    "Glottocode": "alag1248",
+    "WordEN": "goat",
+    "WordFR": "chèvre",
+    "Category": "neuter",
+    "SourceID": 28
+  },
+  {
+    "WordID": 486,
+    "Glottocode": "alag1248",
+    "WordEN": "day",
+    "WordFR": "jour",
+    "Category": "neuter",
+    "SourceID": 28
+  },
+  {
+    "WordID": 487,
+    "Glottocode": "alag1248",
+    "WordEN": "water",
+    "WordFR": "eau",
+    "Category": "neuter",
+    "SourceID": 28
+  },
+  {
+    "WordID": 488,
+    "Glottocode": "alag1248",
+    "WordEN": "hair",
+    "WordFR": "cheveux",
+    "Category": "neuter",
+    "SourceID": 28
+  },
+  {
+    "WordID": 489,
+    "Glottocode": "alag1248",
+    "WordEN": "night",
+    "WordFR": "nuit",
+    "Category": "neuter",
+    "SourceID": 28
+  },
+  {
+    "WordID": 490,
+    "Glottocode": "alag1248",
+    "WordEN": "morning",
+    "WordFR": "matin",
+    "Category": "neuter",
+    "SourceID": 28
+  },
+  {
+    "WordID": 491,
+    "Glottocode": "alag1248",
+    "WordEN": "devil",
+    "WordFR": "diable",
+    "Category": "neuter",
+    "SourceID": 28
+  },
+  {
+    "WordID": 492,
+    "Glottocode": "apur1254",
+    "WordEN": "canoe",
+    "WordFR": "canoë",
+    "Category": "feminine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 493,
+    "Glottocode": "apur1254",
+    "WordEN": "tree",
+    "WordFR": "arbre",
+    "Category": "masculine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 494,
+    "Glottocode": "apur1254",
+    "WordEN": "speech",
+    "WordFR": "discours",
+    "Category": "feminine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 495,
+    "Glottocode": "apur1254",
+    "WordEN": "arrow",
+    "WordFR": "flèche",
+    "Category": "feminine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 496,
+    "Glottocode": "apur1254",
+    "WordEN": "jungle",
+    "WordFR": "jungle",
+    "Category": "masculine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 497,
+    "Glottocode": "apur1254",
+    "WordEN": "clothes",
+    "WordFR": "vêtements",
+    "Category": "masculine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 498,
+    "Glottocode": "apur1254",
+    "WordEN": "body",
+    "WordFR": "corps",
+    "Category": "masculine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 499,
+    "Glottocode": "apur1254",
+    "WordEN": "cotton string",
+    "WordFR": "ficelle en coton",
+    "Category": "masculine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 500,
+    "Glottocode": "apur1254",
+    "WordEN": "place",
+    "WordFR": "lieu",
+    "Category": "masculine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 501,
+    "Glottocode": "apur1254",
+    "WordEN": "firewood",
+    "WordFR": "bois de chauffage",
+    "Category": "masculine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 502,
+    "Glottocode": "apur1254",
+    "WordEN": "umari tree",
+    "WordFR": "arbre umari",
+    "Category": "feminine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 503,
+    "Glottocode": "apur1254",
+    "WordEN": "knife",
+    "WordFR": "couteau",
+    "Category": "masculine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 504,
+    "Glottocode": "apur1254",
+    "WordEN": "fruit",
+    "WordFR": "fruit",
+    "Category": "masculine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 505,
+    "Glottocode": "apur1254",
+    "WordEN": "flower",
+    "WordFR": "fleur",
+    "Category": "masculine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 506,
+    "Glottocode": "apur1254",
+    "WordEN": "larvae",
+    "WordFR": "larves",
+    "Category": "feminine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 507,
+    "Glottocode": "apur1254",
+    "WordEN": "vagina",
+    "WordFR": "vagin",
+    "Category": "masculine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 508,
+    "Glottocode": "apur1254",
+    "WordEN": "fish",
+    "WordFR": "poisson",
+    "Category": "masculine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 509,
+    "Glottocode": "apur1254",
+    "WordEN": "bone",
+    "WordFR": "os",
+    "Category": "masculine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 510,
+    "Glottocode": "apur1254",
+    "WordEN": "year",
+    "WordFR": "année",
+    "Category": "masculine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 511,
+    "Glottocode": "apur1254",
+    "WordEN": "sugar",
+    "WordFR": "sucre",
+    "Category": "feminine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 512,
+    "Glottocode": "apur1254",
+    "WordEN": "sting ray",
+    "WordFR": "raie pastenague",
+    "Category": "feminine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 513,
+    "Glottocode": "apur1254",
+    "WordEN": "speech",
+    "WordFR": "discours",
+    "Category": "feminine",
+    "SourceID": 29
+  },
+  {
+    "WordID": 514,
+    "Glottocode": "araw1276",
+    "WordEN": "woman",
+    "WordFR": "femme",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 515,
+    "Glottocode": "araw1276",
+    "WordEN": "ball",
+    "WordFR": "balle",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 516,
+    "Glottocode": "araw1276",
+    "WordEN": "soup",
+    "WordFR": "soupe",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 517,
+    "Glottocode": "araw1276",
+    "WordEN": "cashew",
+    "WordFR": "noix de cajou",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 518,
+    "Glottocode": "araw1276",
+    "WordEN": "fish",
+    "WordFR": "poisson",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 519,
+    "Glottocode": "araw1276",
+    "WordEN": "tree",
+    "WordFR": "arbre",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 520,
+    "Glottocode": "araw1276",
+    "WordEN": "river",
+    "WordFR": "rivière",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 521,
+    "Glottocode": "araw1276",
+    "WordEN": "creek",
+    "WordFR": "ruisseau",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 522,
+    "Glottocode": "araw1276",
+    "WordEN": "stone",
+    "WordFR": "pierre",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 523,
+    "Glottocode": "araw1276",
+    "WordEN": "day",
+    "WordFR": "jour",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 524,
+    "Glottocode": "araw1276",
+    "WordEN": "cotton",
+    "WordFR": "coton",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 525,
+    "Glottocode": "araw1276",
+    "WordEN": "father",
+    "WordFR": "père",
+    "Category": "masculine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 526,
+    "Glottocode": "araw1276",
+    "WordEN": "mother",
+    "WordFR": "mère",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 527,
+    "Glottocode": "araw1276",
+    "WordEN": "road",
+    "WordFR": "route",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 528,
+    "Glottocode": "araw1276",
+    "WordEN": "rain",
+    "WordFR": "pluie",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 529,
+    "Glottocode": "araw1276",
+    "WordEN": "cloud",
+    "WordFR": "nuage",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 530,
+    "Glottocode": "araw1276",
+    "WordEN": "forest",
+    "WordFR": "forêt",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 531,
+    "Glottocode": "araw1276",
+    "WordEN": "man",
+    "WordFR": "homme",
+    "Category": "masculine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 532,
+    "Glottocode": "araw1276",
+    "WordEN": "husband",
+    "WordFR": "mari",
+    "Category": "masculine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 533,
+    "Glottocode": "araw1276",
+    "WordEN": "sun",
+    "WordFR": "soleil",
+    "Category": "feminine",
+    "SourceID": 32
+  },
+  {
+    "WordID": 534,
+    "Glottocode": "abar1238",
+    "WordEN": "child",
+    "WordFR": "enfant",
+    "Category": "Class 1/2",
+    "SourceID": 35
+  },
+  {
+    "WordID": 535,
+    "Glottocode": "abar1238",
+    "WordEN": "husband",
+    "WordFR": "mari",
+    "Category": "Class 1/2",
+    "SourceID": 35
+  },
+  {
+    "WordID": 536,
+    "Glottocode": "abar1238",
+    "WordEN": "friend",
+    "WordFR": "ami",
+    "Category": "Class 1/2",
+    "SourceID": 35
+  },
+  {
+    "WordID": 537,
+    "Glottocode": "abar1238",
+    "WordEN": "cow",
+    "WordFR": "vache",
+    "Category": "Class 1/2",
+    "SourceID": 35
+  },
+  {
+    "WordID": 538,
+    "Glottocode": "abar1238",
+    "WordEN": "woman",
+    "WordFR": "femme",
+    "Category": "Class 1/2",
+    "SourceID": 35
+  },
+  {
+    "WordID": 539,
+    "Glottocode": "abar1238",
+    "WordEN": "person",
+    "WordFR": "personne",
+    "Category": "Class 1/2",
+    "SourceID": 35
+  },
+  {
+    "WordID": 540,
+    "Glottocode": "abar1238",
+    "WordEN": "rope",
+    "WordFR": "corde",
+    "Category": "Class 3/4",
+    "SourceID": 35
+  },
+  {
+    "WordID": 541,
+    "Glottocode": "abar1238",
+    "WordEN": "tail",
+    "WordFR": "queue",
+    "Category": "Class 3/4",
+    "SourceID": 35
+  },
+  {
+    "WordID": 542,
+    "Glottocode": "abar1238",
+    "WordEN": "house",
+    "WordFR": "maison",
+    "Category": "Class 3/4",
+    "SourceID": 35
+  },
+  {
+    "WordID": 543,
+    "Glottocode": "abar1238",
+    "WordEN": "thigh",
+    "WordFR": "cuisse",
+    "Category": "Class 5/6",
+    "SourceID": 35
+  },
+  {
+    "WordID": 544,
+    "Glottocode": "abar1238",
+    "WordEN": "face",
+    "WordFR": "visage",
+    "Category": "Class 5/6",
+    "SourceID": 35
+  },
+  {
+    "WordID": 545,
+    "Glottocode": "abar1238",
+    "WordEN": "claw",
+    "WordFR": "griffe",
+    "Category": "Class 5/6",
+    "SourceID": 35
+  },
+  {
+    "WordID": 546,
+    "Glottocode": "abar1238",
+    "WordEN": "seed",
+    "WordFR": "graine",
+    "Category": "Class 5/6",
+    "SourceID": 35
+  },
+  {
+    "WordID": 547,
+    "Glottocode": "abar1238",
+    "WordEN": "bean",
+    "WordFR": "haricot",
+    "Category": "Class 5/6",
+    "SourceID": 35
+  },
+  {
+    "WordID": 548,
+    "Glottocode": "abar1238",
+    "WordEN": "tongue",
+    "WordFR": "langue",
+    "Category": "Class 5/6",
+    "SourceID": 35
+  },
+  {
+    "WordID": 549,
+    "Glottocode": "abar1238",
+    "WordEN": "dog",
+    "WordFR": "chien",
+    "Category": "Class 9/10",
+    "SourceID": 35
+  },
+  {
+    "WordID": 550,
+    "Glottocode": "abar1238",
+    "WordEN": "goat",
+    "WordFR": "chèvre",
+    "Category": "Class 9/10",
+    "SourceID": 35
+  },
+  {
+    "WordID": 551,
+    "Glottocode": "abar1238",
+    "WordEN": "gorilla",
+    "WordFR": "gorille",
+    "Category": "Class 9/10",
+    "SourceID": 35
+  },
+  {
+    "WordID": 552,
+    "Glottocode": "abar1238",
+    "WordEN": "chimpanzee",
+    "WordFR": "chimpanzé",
+    "Category": "Class 9/10",
+    "SourceID": 35
+  },
+  {
+    "WordID": 553,
+    "Glottocode": "abar1238",
+    "WordEN": "soldier ant",
+    "WordFR": "fourmi soldat",
+    "Category": "Class 9/10",
+    "SourceID": 35
+  },
+  {
+    "WordID": 554,
+    "Glottocode": "abar1238",
+    "WordEN": "fish",
+    "WordFR": "poisson",
+    "Category": "Class 9/10",
+    "SourceID": 35
+  },
+  {
+    "WordID": 555,
+    "Glottocode": "abar1238",
+    "WordEN": "lizard",
+    "WordFR": "lézard",
+    "Category": "Class 19/18a",
+    "SourceID": 35
+  },
+  {
+    "WordID": 556,
+    "Glottocode": "abar1238",
+    "WordEN": "ring",
+    "WordFR": "anneau",
+    "Category": "Class 19/18a",
+    "SourceID": 35
+  },
+  {
+    "WordID": 557,
+    "Glottocode": "adam1253",
+    "WordEN": "chief",
+    "WordFR": "chef",
+    "Category": "human",
+    "SourceID": 36
+  },
+  {
+    "WordID": 558,
+    "Glottocode": "adam1253",
+    "WordEN": "slave",
+    "WordFR": "esclave",
+    "Category": "human",
+    "SourceID": 36
+  },
+  {
+    "WordID": 559,
+    "Glottocode": "adam1253",
+    "WordEN": "person",
+    "WordFR": "personne",
+    "Category": "human",
+    "SourceID": 36
+  },
+  {
+    "WordID": 560,
+    "Glottocode": "adam1253",
+    "WordEN": "man",
+    "WordFR": "homme",
+    "Category": "human",
+    "SourceID": 36
+  },
+  {
+    "WordID": 561,
+    "Glottocode": "adam1253",
+    "WordEN": "shepherd",
+    "WordFR": "berger",
+    "Category": "human",
+    "SourceID": 36
+  },
+  {
+    "WordID": 562,
+    "Glottocode": "adam1253",
+    "WordEN": "child",
+    "WordFR": "enfant",
+    "Category": "human",
+    "SourceID": 36
+  },
+  {
+    "WordID": 563,
+    "Glottocode": "adam1253",
+    "WordEN": "friend",
+    "WordFR": "ami",
+    "Category": "human",
+    "SourceID": 36
+  },
+  {
+    "WordID": 564,
+    "Glottocode": "adam1253",
+    "WordEN": "teacher",
+    "WordFR": "professeur",
+    "Category": "human",
+    "SourceID": 36
+  },
+  {
+    "WordID": 565,
+    "Glottocode": "adam1253",
+    "WordEN": "heart",
+    "WordFR": "cœur",
+    "Category": "NDE class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 566,
+    "Glottocode": "adam1253",
+    "WordEN": "name",
+    "WordFR": "nom",
+    "Category": "NDE class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 567,
+    "Glottocode": "adam1253",
+    "WordEN": "school",
+    "WordFR": "école",
+    "Category": "NDE class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 568,
+    "Glottocode": "adam1253",
+    "WordEN": "river",
+    "WordFR": "rivière",
+    "Category": "NDE class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 569,
+    "Glottocode": "adam1253",
+    "WordEN": "rain",
+    "WordFR": "pluie",
+    "Category": "NDE class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 570,
+    "Glottocode": "adam1253",
+    "WordEN": "ankle",
+    "WordFR": "cheville",
+    "Category": "NDE class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 571,
+    "Glottocode": "adam1253",
+    "WordEN": "ring",
+    "WordFR": "anneau",
+    "Category": "NDE class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 572,
+    "Glottocode": "adam1253",
+    "WordEN": "egg",
+    "WordFR": "œuf",
+    "Category": "NDE class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 573,
+    "Glottocode": "adam1253",
+    "WordEN": "head",
+    "WordFR": "tête",
+    "Category": "NDE class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 574,
+    "Glottocode": "adam1253",
+    "WordEN": "stone",
+    "WordFR": "pierre",
+    "Category": "NDE class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 575,
+    "Glottocode": "adam1253",
+    "WordEN": "house",
+    "WordFR": "maison",
+    "Category": "NDE class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 576,
+    "Glottocode": "adam1253",
+    "WordEN": "tooth",
+    "WordFR": "dent",
+    "Category": "NDE class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 577,
+    "Glottocode": "adam1253",
+    "WordEN": "word",
+    "WordFR": "mot",
+    "Category": "NDE class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 578,
+    "Glottocode": "adam1253",
+    "WordEN": "lizard",
+    "WordFR": "lézard",
+    "Category": "NDI class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 579,
+    "Glottocode": "adam1253",
+    "WordEN": "cobra",
+    "WordFR": "cobra",
+    "Category": "NDI class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 580,
+    "Glottocode": "adam1253",
+    "WordEN": "snake",
+    "WordFR": "serpent",
+    "Category": "NDI class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 581,
+    "Glottocode": "adam1253",
+    "WordEN": "rooster",
+    "WordFR": "coq",
+    "Category": "NDI class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 582,
+    "Glottocode": "adam1253",
+    "WordEN": "rice",
+    "WordFR": "riz",
+    "Category": "NDI class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 583,
+    "Glottocode": "adam1253",
+    "WordEN": "bull",
+    "WordFR": "taureau",
+    "Category": "NDI class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 584,
+    "Glottocode": "adam1253",
+    "WordEN": "honey",
+    "WordFR": "miel",
+    "Category": "NDI class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 585,
+    "Glottocode": "adam1253",
+    "WordEN": "dog",
+    "WordFR": "chien",
+    "Category": "NDU class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 586,
+    "Glottocode": "adam1253",
+    "WordEN": "monkey",
+    "WordFR": "singe",
+    "Category": "NDU class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 587,
+    "Glottocode": "adam1253",
+    "WordEN": "bottle",
+    "WordFR": "bouteille",
+    "Category": "NDU class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 588,
+    "Glottocode": "adam1253",
+    "WordEN": "lake",
+    "WordFR": "lac",
+    "Category": "NDU class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 589,
+    "Glottocode": "adam1253",
+    "WordEN": "mortar",
+    "WordFR": "mortier",
+    "Category": "NDU class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 590,
+    "Glottocode": "adam1253",
+    "WordEN": "tent",
+    "WordFR": "tente",
+    "Category": "NDU class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 591,
+    "Glottocode": "adam1253",
+    "WordEN": "food",
+    "WordFR": "nourriture",
+    "Category": "NDU class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 592,
+    "Glottocode": "adam1253",
+    "WordEN": "wind",
+    "WordFR": "vent",
+    "Category": "NDU class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 593,
+    "Glottocode": "adam1253",
+    "WordEN": "rat",
+    "WordFR": "rat",
+    "Category": "NDU class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 594,
+    "Glottocode": "adam1253",
+    "WordEN": "stomach",
+    "WordFR": "estomac",
+    "Category": "NDU class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 595,
+    "Glottocode": "adam1253",
+    "WordEN": "house",
+    "WordFR": "maison",
+    "Category": "NDU class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 596,
+    "Glottocode": "adam1253",
+    "WordEN": "body",
+    "WordFR": "corps",
+    "Category": "NDU class",
+    "SourceID": 36
+  },
+  {
+    "WordID": 597,
+    "Glottocode": "afar1241",
+    "WordEN": "mother",
+    "WordFR": "mère",
+    "Category": "feminine",
+    "SourceID": 37
+  },
+  {
+    "WordID": 598,
+    "Glottocode": "afar1241",
+    "WordEN": "father",
+    "WordFR": "père",
+    "Category": "masculine",
+    "SourceID": 37
+  },
+  {
+    "WordID": 599,
+    "Glottocode": "afar1241",
+    "WordEN": "husband",
+    "WordFR": "mari",
+    "Category": "masculine",
+    "SourceID": 37
+  },
+  {
+    "WordID": 600,
+    "Glottocode": "afar1241",
+    "WordEN": "wife",
+    "WordFR": "épouse",
+    "Category": "feminine",
+    "SourceID": 37
+  },
+  {
+    "WordID": 601,
+    "Glottocode": "afar1241",
+    "WordEN": "cow",
+    "WordFR": "vache",
+    "Category": "feminine",
+    "SourceID": 37
+  },
+  {
+    "WordID": 602,
+    "Glottocode": "afar1241",
+    "WordEN": "bull",
+    "WordFR": "taureau",
+    "Category": "masculine",
+    "SourceID": 37
+  },
+  {
+    "WordID": 603,
+    "Glottocode": "afar1241",
+    "WordEN": "head",
+    "WordFR": "tête",
+    "Category": "feminine",
+    "SourceID": 37
+  },
+  {
+    "WordID": 604,
+    "Glottocode": "afar1241",
+    "WordEN": "sandal",
+    "WordFR": "sandale",
+    "Category": "feminine",
+    "SourceID": 37
+  },
+  {
+    "WordID": 605,
+    "Glottocode": "afar1241",
+    "WordEN": "foot",
+    "WordFR": "pied",
+    "Category": "masculine",
+    "SourceID": 37
+  },
+  {
+    "WordID": 606,
+    "Glottocode": "afar1241",
+    "WordEN": "dead",
+    "WordFR": "mort",
+    "Category": "masculine",
+    "SourceID": 37
+  },
+  {
+    "WordID": 607,
+    "Glottocode": "afar1241",
+    "WordEN": "wind",
+    "WordFR": "vent",
+    "Category": "masculine",
+    "SourceID": 37
+  },
+  {
+    "WordID": 608,
+    "Glottocode": "afar1241",
+    "WordEN": "house",
+    "WordFR": "maison",
+    "Category": "masculine",
+    "SourceID": 37
+  },
+  {
+    "WordID": 609,
+    "Glottocode": "afar1241",
+    "WordEN": "war",
+    "WordFR": "guerre",
+    "Category": "masculine",
+    "SourceID": 37
+  },
+  {
+    "WordID": 610,
+    "Glottocode": "afar1241",
+    "WordEN": "meat",
+    "WordFR": "viande",
+    "Category": "feminine",
+    "SourceID": 37
+  },
+  {
+    "WordID": 611,
+    "Glottocode": "afar1241",
+    "WordEN": "breasts",
+    "WordFR": "seins",
+    "Category": "feminine",
+    "SourceID": 37
+  },
+  {
+    "WordID": 612,
+    "Glottocode": "alab1254",
+    "WordEN": "father",
+    "WordFR": "père",
+    "Category": "masculine",
+    "SourceID": 38
+  },
+  {
+    "WordID": 613,
+    "Glottocode": "alab1254",
+    "WordEN": "saliva",
+    "WordFR": "salive",
+    "Category": "masculine",
+    "SourceID": 38
+  },
+  {
+    "WordID": 614,
+    "Glottocode": "alab1254",
+    "WordEN": "boy",
+    "WordFR": "garçon",
+    "Category": "masculine",
+    "SourceID": 38
+  },
+  {
+    "WordID": 615,
+    "Glottocode": "alab1254",
+    "WordEN": "kidney",
+    "WordFR": "rein",
+    "Category": "masculine",
+    "SourceID": 38
+  },
+  {
+    "WordID": 616,
+    "Glottocode": "alab1254",
+    "WordEN": "lung",
+    "WordFR": "poumon",
+    "Category": "masculine",
+    "SourceID": 38
+  },
+  {
+    "WordID": 617,
+    "Glottocode": "alab1254",
+    "WordEN": "mouth",
+    "WordFR": "bouche",
+    "Category": "masculine",
+    "SourceID": 38
+  },
+  {
+    "WordID": 618,
+    "Glottocode": "alab1254",
+    "WordEN": "neck",
+    "WordFR": "cou",
+    "Category": "masculine",
+    "SourceID": 38
+  },
+  {
+    "WordID": 619,
+    "Glottocode": "alab1254",
+    "WordEN": "wound",
+    "WordFR": "blessure",
+    "Category": "masculine",
+    "SourceID": 38
+  },
+  {
+    "WordID": 620,
+    "Glottocode": "alab1254",
+    "WordEN": "mother",
+    "WordFR": "mère",
+    "Category": "feminine",
+    "SourceID": 38
+  },
+  {
+    "WordID": 621,
+    "Glottocode": "alab1254",
+    "WordEN": "voice",
+    "WordFR": "voix",
+    "Category": "feminine",
+    "SourceID": 38
+  },
+  {
+    "WordID": 622,
+    "Glottocode": "alab1254",
+    "WordEN": "eye",
+    "WordFR": "œil",
+    "Category": "feminine",
+    "SourceID": 38
+  },
+  {
+    "WordID": 623,
+    "Glottocode": "alab1254",
+    "WordEN": "bow",
+    "WordFR": "arc",
+    "Category": "feminine",
+    "SourceID": 38
+  },
+  {
+    "WordID": 624,
+    "Glottocode": "alab1254",
+    "WordEN": "size",
+    "WordFR": "taille",
+    "Category": "feminine",
+    "SourceID": 38
+  },
+  {
+    "WordID": 625,
+    "Glottocode": "alab1254",
+    "WordEN": "ant",
+    "WordFR": "fourmi",
+    "Category": "feminine",
+    "SourceID": 38
+  },
+  {
+    "WordID": 626,
+    "Glottocode": "alab1254",
+    "WordEN": "lizard",
+    "WordFR": "lézard",
+    "Category": "feminine",
+    "SourceID": 38
+  },
+  {
+    "WordID": 627,
+    "Glottocode": "hata1243",
+    "WordEN": "pig",
+    "WordFR": "cochon",
+    "Category": "big animates",
+    "SourceID": 43
+  },
+  {
+    "WordID": 628,
+    "Glottocode": "hata1243",
+    "WordEN": "tree",
+    "WordFR": "arbre",
+    "Category": "small trees",
+    "SourceID": 43
+  },
+  {
+    "WordID": 629,
+    "Glottocode": "hata1243",
+    "WordEN": "brother",
+    "WordFR": "frère",
+    "Category": "person",
+    "SourceID": 43
+  },
+  {
+    "WordID": 630,
+    "Glottocode": "hata1243",
+    "WordEN": "father",
+    "WordFR": "père",
+    "Category": "person",
+    "SourceID": 43
+  },
+  {
+    "WordID": 631,
+    "Glottocode": "hata1243",
+    "WordEN": "friend",
+    "WordFR": "ami",
+    "Category": "person",
+    "SourceID": 43
+  },
+  {
+    "WordID": 632,
+    "Glottocode": "hata1243",
+    "WordEN": "seed",
+    "WordFR": "graine",
+    "Category": "seeds",
+    "SourceID": 43
+  },
+  {
+    "WordID": 633,
+    "Glottocode": "hata1243",
+    "WordEN": "bird",
+    "WordFR": "oiseau",
+    "Category": "birds",
+    "SourceID": 43
+  },
+  {
+    "WordID": 634,
+    "Glottocode": "iatm1242",
+    "WordEN": "boy",
+    "WordFR": "garçon",
+    "Category": "masculine",
+    "SourceID": 45
+  },
+  {
+    "WordID": 635,
+    "Glottocode": "iatm1242",
+    "WordEN": "girl",
+    "WordFR": "fille",
+    "Category": "feminine",
+    "SourceID": 45
+  },
+  {
+    "WordID": 636,
+    "Glottocode": "iatm1242",
+    "WordEN": "sun",
+    "WordFR": "soleil",
+    "Category": "masculine",
+    "SourceID": 45
+  },
+  {
+    "WordID": 637,
+    "Glottocode": "iatm1242",
+    "WordEN": "moon",
+    "WordFR": "lune",
+    "Category": "feminine",
+    "SourceID": 45
+  },
+  {
+    "WordID": 638,
+    "Glottocode": "iatm1242",
+    "WordEN": "fish",
+    "WordFR": "poisson",
+    "Category": "masculine",
+    "SourceID": 45
+  },
+  {
+    "WordID": 639,
+    "Glottocode": "iatm1242",
+    "WordEN": "dog",
+    "WordFR": "chien",
+    "Category": "masculine",
+    "SourceID": 45
+  },
+  {
+    "WordID": 640,
+    "Glottocode": "iatm1242",
+    "WordEN": "crocodile",
+    "WordFR": "crocodile",
+    "Category": "masculine",
+    "SourceID": 45
+  },
+  {
+    "WordID": 641,
+    "Glottocode": "iatm1242",
+    "WordEN": "message",
+    "WordFR": "message",
+    "Category": "feminine",
+    "SourceID": 45
+  },
+  {
+    "WordID": 642,
+    "Glottocode": "iatm1242",
+    "WordEN": "tobacco",
+    "WordFR": "tabac",
+    "Category": "masculine",
+    "SourceID": 45
+  },
+  {
+    "WordID": 643,
+    "Glottocode": "khmu1256",
+    "WordEN": "child",
+    "WordFR": "enfant",
+    "Category": "human",
+    "SourceID": 46
+  },
+  {
+    "WordID": 644,
+    "Glottocode": "khmu1256",
+    "WordEN": "dog",
+    "WordFR": "chien",
+    "Category": "animate",
+    "SourceID": 46
+  },
+  {
+    "WordID": 645,
+    "Glottocode": "khmu1256",
+    "WordEN": "car",
+    "WordFR": "voiture",
+    "Category": "vehicles",
+    "SourceID": 46
+  },
+  {
+    "WordID": 646,
+    "Glottocode": "khmu1256",
+    "WordEN": "maison",
+    "WordFR": "maison",
+    "Category": "houses",
+    "SourceID": 46
+  },
+  {
+    "WordID": 647,
+    "Glottocode": "khmu1256",
+    "WordEN": "cow",
+    "WordFR": "vache",
+    "Category": "animate",
+    "SourceID": 46
+  },
+  {
+    "WordID": 648,
+    "Glottocode": "khmu1256",
+    "WordEN": "egg",
+    "WordFR": "œuf",
+    "Category": "round",
+    "SourceID": 46
+  },
+  {
+    "WordID": 649,
+    "Glottocode": "khmu1256",
+    "WordEN": "truck",
+    "WordFR": "camion",
+    "Category": "vehicles",
+    "SourceID": 46
+  },
+  {
+    "WordID": 650,
+    "Glottocode": "khmu1256",
+    "WordEN": "plane",
+    "WordFR": "avion",
+    "Category": "vehicles",
+    "SourceID": 46
+  },
+  {
+    "WordID": 651,
+    "Glottocode": "khmu1256",
+    "WordEN": "building",
+    "WordFR": "bâtiment",
+    "Category": "houses",
+    "SourceID": 46
+  },
+  {
+    "WordID": 652,
+    "Glottocode": "khmu1256",
+    "WordEN": "hut",
+    "WordFR": "cabane",
+    "Category": "houses",
+    "SourceID": 46
+  },
+  {
+    "WordID": 653,
+    "Glottocode": "khmu1256",
+    "WordEN": "canoe",
+    "WordFR": "canoë",
+    "Category": "long",
+    "SourceID": 46
+  },
+  {
+    "WordID": 654,
+    "Glottocode": "khmu1256",
+    "WordEN": "reed",
+    "WordFR": "roseau",
+    "Category": "long",
+    "SourceID": 46
+  },
+  {
+    "WordID": 655,
+    "Glottocode": "khmu1256",
+    "WordEN": "chili plant",
+    "WordFR": "plante de piment",
+    "Category": "plants",
+    "SourceID": 46
+  },
+  {
+    "WordID": 656,
+    "Glottocode": "khmu1256",
+    "WordEN": "tree",
+    "WordFR": "arbre",
+    "Category": "plants",
+    "SourceID": 46
+  },
+  {
+    "WordID": 657,
+    "Glottocode": "khmu1256",
+    "WordEN": "coconut palm",
+    "WordFR": "cocotier",
+    "Category": "plants",
+    "SourceID": 46
+  },
+  {
+    "WordID": 658,
+    "Glottocode": "khmu1256",
+    "WordEN": "buffalo",
+    "WordFR": "bison",
+    "Category": "animate",
+    "SourceID": 46
+  },
+  {
+    "WordID": 659,
+    "Glottocode": "khan1272",
+    "WordEN": "shirt",
+    "WordFR": "chemise",
+    "Category": "masculine",
+    "SourceID": 50
+  },
+  {
+    "WordID": 660,
+    "Glottocode": "khan1272",
+    "WordEN": "brother",
+    "WordFR": "frère",
+    "Category": "masculine",
+    "SourceID": 50
+  },
+  {
+    "WordID": 661,
+    "Glottocode": "khan1272",
+    "WordEN": "radio",
+    "WordFR": "radio",
+    "Category": "masculine",
+    "SourceID": 50
+  },
+  {
+    "WordID": 662,
+    "Glottocode": "khan1272",
+    "WordEN": "basket",
+    "WordFR": "panier",
+    "Category": "neuter",
+    "SourceID": 50
+  },
+  {
+    "WordID": 663,
+    "Glottocode": "khan1272",
+    "WordEN": "butter",
+    "WordFR": "beurre",
+    "Category": "neuter",
+    "SourceID": 50
+  },
+  {
+    "WordID": 664,
+    "Glottocode": "khan1272",
+    "WordEN": "lemon",
+    "WordFR": "citron",
+    "Category": "neuter",
+    "SourceID": 50
+  },
+  {
+    "WordID": 665,
+    "Glottocode": "khan1272",
+    "WordEN": "wife",
+    "WordFR": "épouse",
+    "Category": "feminine",
+    "SourceID": 50
+  },
+  {
+    "WordID": 666,
+    "Glottocode": "khan1272",
+    "WordEN": "woman",
+    "WordFR": "femme",
+    "Category": "feminine",
+    "SourceID": 50
+  },
+  {
+    "WordID": 667,
+    "Glottocode": "khan1272",
+    "WordEN": "place",
+    "WordFR": "lieu",
+    "Category": "feminine",
+    "SourceID": 50
+  },
+  {
+    "WordID": 668,
+    "Glottocode": "khan1272",
+    "WordEN": "mother-in-law",
+    "WordFR": "belle-mère",
+    "Category": "feminine",
+    "SourceID": 50
+  },
+  {
+    "WordID": 669,
+    "Glottocode": "khan1272",
+    "WordEN": "snake",
+    "WordFR": "serpent",
+    "Category": "masculine",
+    "SourceID": 50
+  },
+  {
+    "WordID": 670,
+    "Glottocode": "khan1272",
+    "WordEN": "man",
+    "WordFR": "homme",
+    "Category": "masculine",
+    "SourceID": 50
+  },
+  {
+    "WordID": 671,
+    "Glottocode": "khan1272",
+    "WordEN": "rat",
+    "WordFR": "rat",
+    "Category": "masculine",
+    "SourceID": 50
+  },
+  {
+    "WordID": 672,
+    "Glottocode": "khan1272",
+    "WordEN": "door",
+    "WordFR": "porte",
+    "Category": "neuter",
+    "SourceID": 50
+  },
+  {
+    "WordID": 673,
+    "Glottocode": "khan1272",
+    "WordEN": "year",
+    "WordFR": "année",
+    "Category": "neuter",
+    "SourceID": 50
+  },
+  {
+    "WordID": 674,
+    "Glottocode": "khan1272",
+    "WordEN": "temple",
+    "WordFR": "temple",
+    "Category": "neuter",
+    "SourceID": 50
+  },
+  {
+    "WordID": 675,
+    "Glottocode": "khan1272",
+    "WordEN": "school",
+    "WordFR": "école",
+    "Category": "feminine",
+    "SourceID": 50
+  },
+  {
+    "WordID": 676,
+    "Glottocode": "khan1272",
+    "WordEN": "wall",
+    "WordFR": "mur",
+    "Category": "feminine",
+    "SourceID": 50
+  },
+  {
+    "WordID": 677,
+    "Glottocode": "khva1239",
+    "WordEN": "man",
+    "WordFR": "homme",
+    "Category": "Class 1",
+    "SourceID": 51
+  },
+  {
+    "WordID": 678,
+    "Glottocode": "khva1239",
+    "WordEN": "stomach",
+    "WordFR": "estomac",
+    "Category": "Class 4",
+    "SourceID": 51
+  },
+  {
+    "WordID": 679,
+    "Glottocode": "khva1239",
+    "WordEN": "box",
+    "WordFR": "boîte",
+    "Category": "Class 5",
+    "SourceID": 51
+  },
+  {
+    "WordID": 680,
+    "Glottocode": "khva1239",
+    "WordEN": "girl",
+    "WordFR": "fille",
+    "Category": "Class 2",
+    "SourceID": 51
+  },
+  {
+    "WordID": 681,
+    "Glottocode": "khva1239",
+    "WordEN": "child",
+    "WordFR": "enfant",
+    "Category": "Class 3",
+    "SourceID": 51
+  },
+  {
+    "WordID": 682,
+    "Glottocode": "khva1239",
+    "WordEN": "father",
+    "WordFR": "père",
+    "Category": "Class 1",
+    "SourceID": 51
+  },
+  {
+    "WordID": 683,
+    "Glottocode": "khva1239",
+    "WordEN": "grandfather",
+    "WordFR": "grand-père",
+    "Category": "Class 1",
+    "SourceID": 51
+  },
+  {
+    "WordID": 684,
+    "Glottocode": "khva1239",
+    "WordEN": "boy",
+    "WordFR": "garçon",
+    "Category": "Class 1",
+    "SourceID": 51
+  },
+  {
+    "WordID": 685,
+    "Glottocode": "khva1239",
+    "WordEN": "husband",
+    "WordFR": "mari",
+    "Category": "Class 1",
+    "SourceID": 51
+  },
+  {
+    "WordID": 686,
+    "Glottocode": "khva1239",
+    "WordEN": "son-in-law",
+    "WordFR": "gendre",
+    "Category": "Class 1",
+    "SourceID": 51
+  },
+  {
+    "WordID": 687,
+    "Glottocode": "khva1239",
+    "WordEN": "god",
+    "WordFR": "Dieu",
+    "Category": "Class 1",
+    "SourceID": 51
+  },
+  {
+    "WordID": 688,
+    "Glottocode": "khva1239",
+    "WordEN": "angel",
+    "WordFR": "ange",
+    "Category": "Class 1",
+    "SourceID": 51
+  },
+  {
+    "WordID": 689,
+    "Glottocode": "khva1239",
+    "WordEN": "prophet",
+    "WordFR": "prophète",
+    "Category": "Class 1",
+    "SourceID": 51
+  },
+  {
+    "WordID": 690,
+    "Glottocode": "khva1239",
+    "WordEN": "mother",
+    "WordFR": "mère",
+    "Category": "Class 2",
+    "SourceID": 51
+  },
+  {
+    "WordID": 691,
+    "Glottocode": "khva1239",
+    "WordEN": "grandmother",
+    "WordFR": "grand-mère",
+    "Category": "Class 2",
+    "SourceID": 51
+  },
+  {
+    "WordID": 692,
+    "Glottocode": "khva1239",
+    "WordEN": "daughter",
+    "WordFR": "fille",
+    "Category": "Class 2",
+    "SourceID": 51
+  },
+  {
+    "WordID": 693,
+    "Glottocode": "khva1239",
+    "WordEN": "goddess",
+    "WordFR": "déesse",
+    "Category": "Class 2",
+    "SourceID": 51
+  },
+  {
+    "WordID": 694,
+    "Glottocode": "khva1239",
+    "WordEN": "witch",
+    "WordFR": "sorcière",
+    "Category": "Class 2",
+    "SourceID": 51
+  },
+  {
+    "WordID": 695,
+    "Glottocode": "khva1239",
+    "WordEN": "dog",
+    "WordFR": "chien",
+    "Category": "Class 3",
+    "SourceID": 51
+  },
+  {
+    "WordID": 696,
+    "Glottocode": "khva1239",
+    "WordEN": "cow",
+    "WordFR": "vache",
+    "Category": "Class 3",
+    "SourceID": 51
+  },
+  {
+    "WordID": 697,
+    "Glottocode": "khva1239",
+    "WordEN": "wolf",
+    "WordFR": "loup",
+    "Category": "Class 3",
+    "SourceID": 51
+  },
+  {
+    "WordID": 698,
+    "Glottocode": "khva1239",
+    "WordEN": "owl",
+    "WordFR": "hibou",
+    "Category": "Class 3",
+    "SourceID": 51
+  },
+  {
+    "WordID": 699,
+    "Glottocode": "khva1239",
+    "WordEN": "horse",
+    "WordFR": "cheval",
+    "Category": "Class 3",
+    "SourceID": 51
+  },
+  {
+    "WordID": 700,
+    "Glottocode": "khva1239",
+    "WordEN": "bear",
+    "WordFR": "ours",
+    "Category": "Class 3",
+    "SourceID": 51
+  },
+  {
+    "WordID": 701,
+    "Glottocode": "khva1239",
+    "WordEN": "chin",
+    "WordFR": "menton",
+    "Category": "Class 3",
+    "SourceID": 51
+  },
+  {
+    "WordID": 702,
+    "Glottocode": "khva1239",
+    "WordEN": "breasts",
+    "WordFR": "seins",
+    "Category": "Class 3",
+    "SourceID": 51
+  },
+  {
+    "WordID": 703,
+    "Glottocode": "khva1239",
+    "WordEN": "hair",
+    "WordFR": "cheveux",
+    "Category": "Class 3",
+    "SourceID": 51
+  },
+  {
+    "WordID": 704,
+    "Glottocode": "khva1239",
+    "WordEN": "devil",
+    "WordFR": "diable",
+    "Category": "Class 3",
+    "SourceID": 51
+  },
+  {
+    "WordID": 705,
+    "Glottocode": "khva1239",
+    "WordEN": "respect",
+    "WordFR": "respect",
+    "Category": "Class 3",
+    "SourceID": 51
+  },
+  {
+    "WordID": 706,
+    "Glottocode": "khva1239",
+    "WordEN": "shoulder",
+    "WordFR": "épaule",
+    "Category": "Class 4",
+    "SourceID": 51
+  },
+  {
+    "WordID": 707,
+    "Glottocode": "khva1239",
+    "WordEN": "arm",
+    "WordFR": "bras",
+    "Category": "Class 4",
+    "SourceID": 51
+  },
+  {
+    "WordID": 708,
+    "Glottocode": "khva1239",
+    "WordEN": "lung",
+    "WordFR": "poumon",
+    "Category": "Class 4",
+    "SourceID": 51
+  },
+  {
+    "WordID": 709,
+    "Glottocode": "khva1239",
+    "WordEN": "heart",
+    "WordFR": "cœur",
+    "Category": "Class 4",
+    "SourceID": 51
+  },
+  {
+    "WordID": 710,
+    "Glottocode": "khva1239",
+    "WordEN": "knife",
+    "WordFR": "couteau",
+    "Category": "Class 4",
+    "SourceID": 51
+  },
+  {
+    "WordID": 711,
+    "Glottocode": "khva1239",
+    "WordEN": "axe",
+    "WordFR": "hache",
+    "Category": "Class 4",
+    "SourceID": 51
+  },
+  {
+    "WordID": 712,
+    "Glottocode": "khva1239",
+    "WordEN": "hammer",
+    "WordFR": "marteau",
+    "Category": "Class 4",
+    "SourceID": 51
+  },
+  {
+    "WordID": 713,
+    "Glottocode": "khva1239",
+    "WordEN": "water",
+    "WordFR": "eau",
+    "Category": "Class 4",
+    "SourceID": 51
+  },
+  {
+    "WordID": 714,
+    "Glottocode": "khva1239",
+    "WordEN": "oil",
+    "WordFR": "huile",
+    "Category": "Class 4",
+    "SourceID": 51
+  },
+  {
+    "WordID": 715,
+    "Glottocode": "khva1239",
+    "WordEN": "bird",
+    "WordFR": "oiseau",
+    "Category": "Class 5",
+    "SourceID": 51
+  },
+  {
+    "WordID": 716,
+    "Glottocode": "khva1239",
+    "WordEN": "butterfly",
+    "WordFR": "papillon",
+    "Category": "Class 5",
+    "SourceID": 51
+  },
+  {
+    "WordID": 717,
+    "Glottocode": "khva1239",
+    "WordEN": "bones",
+    "WordFR": "os",
+    "Category": "Class 5",
+    "SourceID": 51
+  },
+  {
+    "WordID": 718,
+    "Glottocode": "khva1239",
+    "WordEN": "knee",
+    "WordFR": "genou",
+    "Category": "Class 5",
+    "SourceID": 51
+  },
+  {
+    "WordID": 719,
+    "Glottocode": "khva1239",
+    "WordEN": "leg",
+    "WordFR": "jambe",
+    "Category": "Class 5",
+    "SourceID": 51
+  },
+  {
+    "WordID": 720,
+    "Glottocode": "khva1239",
+    "WordEN": "chick",
+    "WordFR": "poussin",
+    "Category": "Class 5",
+    "SourceID": 51
+  },
+  {
+    "WordID": 721,
+    "Glottocode": "khva1239",
+    "WordEN": "kitten",
+    "WordFR": "chaton",
+    "Category": "Class 5",
+    "SourceID": 51
+  },
+  {
+    "WordID": 722,
+    "Glottocode": "khva1239",
+    "WordEN": "calf",
+    "WordFR": "veau",
+    "Category": "Class 5",
+    "SourceID": 51
+  },
+  {
+    "WordID": 723,
+    "Glottocode": "khva1239",
+    "WordEN": "kid",
+    "WordFR": "enfant",
+    "Category": "Class 5",
+    "SourceID": 51
+  },
+  {
+    "WordID": 724,
+    "Glottocode": "hind1269",
+    "WordEN": "fan",
+    "WordFR": "ventilateur",
+    "Category": "masculine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 725,
+    "Glottocode": "hind1269",
+    "WordEN": "stick",
+    "WordFR": "bâton",
+    "Category": "masculine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 726,
+    "Glottocode": "hind1269",
+    "WordEN": "bowl",
+    "WordFR": "bol",
+    "Category": "masculine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 727,
+    "Glottocode": "hind1269",
+    "WordEN": "room",
+    "WordFR": "chambre",
+    "Category": "masculine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 728,
+    "Glottocode": "hind1269",
+    "WordEN": "small fan",
+    "WordFR": "petit ventilateur",
+    "Category": "feminine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 729,
+    "Glottocode": "hind1269",
+    "WordEN": "small bowl",
+    "WordFR": "petit bol",
+    "Category": "feminine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 730,
+    "Glottocode": "hind1269",
+    "WordEN": "small stick",
+    "WordFR": "petit bâton",
+    "Category": "feminine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 731,
+    "Glottocode": "hind1269",
+    "WordEN": "small room",
+    "WordFR": "petite pièce",
+    "Category": "feminine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 732,
+    "Glottocode": "hind1269",
+    "WordEN": "book",
+    "WordFR": "livre",
+    "Category": "feminine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 733,
+    "Glottocode": "hind1269",
+    "WordEN": "newspaper",
+    "WordFR": "journal",
+    "Category": "masculine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 734,
+    "Glottocode": "hind1269",
+    "WordEN": "essay",
+    "WordFR": "essai",
+    "Category": "masculine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 735,
+    "Glottocode": "hind1269",
+    "WordEN": "letter",
+    "WordFR": "lettre",
+    "Category": "masculine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 736,
+    "Glottocode": "hind1269",
+    "WordEN": "film",
+    "WordFR": "film",
+    "Category": "feminine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 737,
+    "Glottocode": "hind1269",
+    "WordEN": "chair",
+    "WordFR": "chaise",
+    "Category": "feminine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 738,
+    "Glottocode": "hind1269",
+    "WordEN": "branch",
+    "WordFR": "branche",
+    "Category": "feminine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 739,
+    "Glottocode": "hind1269",
+    "WordEN": "story",
+    "WordFR": "histoire",
+    "Category": "feminine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 740,
+    "Glottocode": "hind1269",
+    "WordEN": "bread",
+    "WordFR": "pain",
+    "Category": "feminine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 741,
+    "Glottocode": "hind1269",
+    "WordEN": "milk",
+    "WordFR": "lait",
+    "Category": "masculine",
+    "SourceID": 1
+  },
+  {
+    "WordID": 742,
+    "Glottocode": "chak1271",
+    "WordEN": "goat",
+    "WordFR": "chèvre",
+    "Category": "Non-human",
+    "SourceID": 54
+  },
+  {
+    "WordID": 743,
+    "Glottocode": "chak1271",
+    "WordEN": "language",
+    "WordFR": "langage",
+    "Category": "Non-human",
+    "SourceID": 54
+  },
+  {
+    "WordID": 744,
+    "Glottocode": "chak1271",
+    "WordEN": "cooking pot",
+    "WordFR": "marmite",
+    "Category": "Non-human",
+    "SourceID": 54
+  },
+  {
+    "WordID": 745,
+    "Glottocode": "chak1271",
+    "WordEN": "child",
+    "WordFR": "enfant",
+    "Category": "human",
+    "SourceID": 54
+  },
+  {
+    "WordID": 746,
+    "Glottocode": "chak1271",
+    "WordEN": "elephant",
+    "WordFR": "éléphant",
+    "Category": "Non-human",
+    "SourceID": 54
+  },
+  {
+    "WordID": 747,
+    "Glottocode": "chak1271",
+    "WordEN": "person",
+    "WordFR": "personne",
+    "Category": "human",
+    "SourceID": 54
+  }
+]

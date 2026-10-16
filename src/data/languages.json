@@ -1,0 +1,500 @@
+[
+  {
+    "LanguageEN": "Aari",
+    "LanguageFR": "Aari",
+    "Glottocode": "aari1239",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/aari1239",
+    "CountryEN": "Ethiopia",
+    "CountryFR": "Ethiopie",
+    "Latitude": 5.95034,
+    "Longitude": 36.5721,
+    "Area_GLOT_FR": "Afrique",
+    "CommentaryFR": "L’aari distingue deux catégories de noms, le masculin et féminin. Le masculin est la catégorie par défaut.",
+    "Classification_ID": [
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Mungbam",
+    "LanguageFR": "Mungbam",
+    "Glottocode": "abar1238",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/abar1238",
+    "CountryEN": "Cameroon",
+    "CountryFR": "Cameroun",
+    "Latitude": 6.5805,
+    "Longitude": 10.2267,
+    "Area_GLOT_FR": "Afrique",
+    "CommentaryFR": "Le mungbam distingue huit catégories de noms les humains, les parties du corps, ou encore les animaux.",
+    "Classification_ID": [
+      "c"
+    ]
+  },
+  {
+    "LanguageEN": "Adamawa Fulfulde",
+    "LanguageFR": "Peul de l’Adamawa",
+    "Glottocode": "adam1253",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/adam1253",
+    "CountryEN": "Cameroon, Eritrea, Ethiopia, Nigeria, Sudan, Chad",
+    "CountryFR": "Cameroun, Érythrée, Ethiopie, Nigeria, Soudan, Tchad",
+    "Latitude": 8.140326,
+    "Longitude": 13.077338,
+    "Area_GLOT_FR": "Afrique",
+    "CommentaryFR": "Le peul de l’Adamawa distingue 19 catégories de noms, dont les humains, les objets ronds, les animaux, et même une catégorie pour les lieux.",
+    "Classification_ID": [
+      "c"
+    ]
+  },
+  {
+    "LanguageEN": "Afar",
+    "LanguageFR": "Afar",
+    "Glottocode": "afar1241",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/afar1241",
+    "CountryEN": "Djibouti, Eritrea, Ethiopia",
+    "CountryFR": "Djibouti, Érythrée, Ethiopie",
+    "Latitude": 12.2281,
+    "Longitude": 41.8083,
+    "Area_GLOT_FR": "Afrique",
+    "CommentaryFR": "L’afar distingue deux catégories de noms, le masculin et le féminin. Les objets ont un genre arbitraire, par exemple, « maison » es masculin et « viande » est féminin.",
+    "Classification_ID": [
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Aghem",
+    "LanguageFR": "Aghem",
+    "Glottocode": "aghe1239",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/aghe1239",
+    "CountryEN": "Cameroon",
+    "CountryFR": "Cameroun",
+    "Latitude": 6.38956,
+    "Longitude": 10.0807,
+    "Area_GLOT_FR": "Afrique",
+    "CommentaryFR": "L’aghem distingue six catégories de noms, dont les humains, les parties du corps, ou encore les animaux.",
+    "Classification_ID": [
+      "c"
+    ]
+  },
+  {
+    "LanguageEN": "Alaba-K'abeena",
+    "LanguageFR": "Alaba-K’abeena",
+    "Glottocode": "alab1254",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/alab1254",
+    "CountryEN": "Ethiopia",
+    "CountryFR": "Ethiopie",
+    "Latitude": 7.39014,
+    "Longitude": 38.1732,
+    "Area_GLOT_FR": "Afrique",
+    "CommentaryFR": "L’alaba-K'abeena distingue deux catégories de noms, le masculin et le féminin. Les objets ont un genre arbitraire, par exemple, « guerre » est masculin .",
+    "Classification_ID": [
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Ajyíninka Apurucayali",
+    "LanguageFR": "Ajyíninka Apurucayali",
+    "Glottocode": "ajyi1238",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/ajyi1238",
+    "CountryEN": "Peru",
+    "CountryFR": "Pérou",
+    "Latitude": -9.82364,
+    "Longitude": -74.61947,
+    "Area_GLOT_FR": "Amérique du Sud",
+    "CommentaryFR": "L’ajyíninka Apurucayali distingue deux catégories de noms, le masculin et le féminin. Dans cette langue, les noms d’objets sont tous féminins.",
+    "Classification_ID": [
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Alagwa",
+    "LanguageFR": "Alagwa",
+    "Glottocode": "alag1248",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/alag1248",
+    "CountryEN": "Tanzania",
+    "CountryFR": "Tanzanie",
+    "Latitude": -4.64148,
+    "Longitude": 35.7231,
+    "Area_GLOT_FR": "Afrique",
+    "CommentaryFR": "L’alagwa distingue trois catégories de noms, le masculin, le féminin et le neutre. Par exemple, « garçon » est féminin, et « nuit » est neutre.",
+    "Classification_ID": [
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Apurinã",
+    "LanguageFR": "Apurinã",
+    "Glottocode": "apur1254",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/apur1254",
+    "CountryEN": "Brazil",
+    "CountryFR": "Brésil",
+    "Latitude": -8.21692,
+    "Longitude": -66.7714,
+    "Area_GLOT_FR": "Amérique du Sud",
+    "CommentaryFR": "L’apurinã distingue deux catégories de noms, le masculin et le féminin. Les objets ont un genre arbitraire, par exemple, « année » est masculin, et « sucre » est féminin.",
+    "Classification_ID": [
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Lokono",
+    "LanguageFR": "Lokono",
+    "Glottocode": "araw1276",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/araw1276",
+    "CountryEN": "French Guiana, Guyana, Suriname, Venezuela",
+    "CountryFR": "Guyane française, Guyane, Surinam, Venezuela",
+    "Latitude": 5.64295,
+    "Longitude": -56.9243,
+    "Area_GLOT_FR": "Amérique du Sud",
+    "CommentaryFR": "Le lokono distingue deux catégories de noms, le masculin et féminin. Le féminin est la catégorie par défaut, donc tous les mots sauf ceux qui désignent les hommes sont féminins !",
+    "Classification_ID": [
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Chakali",
+    "LanguageFR": "Chakali",
+    "Glottocode": "chak1271",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/chak1271",
+    "CountryEN": "Ghana",
+    "CountryFR": "Ghana",
+    "Latitude": 9.83446,
+    "Longitude": -1.90181,
+    "Area_GLOT_FR": "Afrique",
+    "CommentaryFR": "Le chakali a un système hybride qui peut distinguer entre deux et trois catégories (humains, objets et parfois noms animés) selon le type de mot.",
+    "Classification_ID": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Goemai",
+    "LanguageFR": "Goemai",
+    "Glottocode": "goem1240",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/goem1240",
+    "CountryEN": "Nigeria",
+    "CountryFR": "Nigeria",
+    "Latitude": 8.74455,
+    "Longitude": 9.72453,
+    "Area_GLOT_FR": "Afrique",
+    "CommentaryFR": "Le goemai distingue quatre catégories de noms, selon leur position. Par exemple, il y a une classe pour les choses suspendues et une classe pour les choses qui tiennent debout.",
+    "Classification_ID": [
+      "a"
+    ]
+  },
+  {
+    "LanguageEN": "Gumawana",
+    "LanguageFR": "Gumawana",
+    "Glottocode": "guma1254",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/guma1254",
+    "CountryEN": "Papua New Guinea",
+    "CountryFR": "Papouasie-Nouvelle-Guinée",
+    "Latitude": -9.28497,
+    "Longitude": 150.762,
+    "Area_GLOT_FR": "Papunésie",
+    "CommentaryFR": "Le gumawana distingue trois catégories de noms, chacune avec une façon particulière de compter les membres de sa classe !",
+    "Classification_ID": [
+      "a"
+    ]
+  },
+  {
+    "LanguageEN": "Hamtai",
+    "LanguageFR": "Hamtai",
+    "Glottocode": "hamt1247",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/hamt1247",
+    "CountryEN": "Papua New Guinea",
+    "CountryFR": "Papouasie-Nouvelle-Guinée",
+    "Latitude": -7.54975,
+    "Longitude": 146.227,
+    "Area_GLOT_FR": "Papunésie",
+    "CommentaryFR": null,
+    "Classification_ID": [
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Hatam",
+    "LanguageFR": "Hatam",
+    "Glottocode": "hata1243",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/hata1243",
+    "CountryEN": "Indonesia",
+    "CountryFR": "Indonésie",
+    "Latitude": -1.13531,
+    "Longitude": 134.037,
+    "Area_GLOT_FR": "Papunésie",
+    "CommentaryFR": "Le hatam distingue au moins cinq catégories de noms, dont les humains, les grands animaux, ou encore les oiseaux.",
+    "Classification_ID": [
+      "a"
+    ]
+  },
+  {
+    "LanguageEN": "Hindi",
+    "LanguageFR": "Hindi",
+    "Glottocode": "hind1269",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/hind1269",
+    "CountryEN": "Bangladesh, Bhutan, India, Nepal",
+    "CountryFR": "Bangladesh, Bhoutan, Inde, Népal",
+    "Latitude": 25.0,
+    "Longitude": 77.0,
+    "Area_GLOT_FR": "Eurasie",
+    "CommentaryFR": "Le hindi distingue deux catégories de noms, le masculin et le féminin. Les objets ont un genre arbitraire, par exemple, « chambre » est masculin, et « livre » est féminin.",
+    "Classification_ID": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Hoava",
+    "LanguageFR": "Hoava",
+    "Glottocode": "hoav1238",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/hoav1238",
+    "CountryEN": "Solomon Islands",
+    "CountryFR": "Îles Salomon",
+    "Latitude": -8.19679,
+    "Longitude": 157.595,
+    "Area_GLOT_FR": "Papunésie",
+    "CommentaryFR": "Le hoava distingue une catégorie de noms, utilisée pour identifier les choses comestibles.",
+    "Classification_ID": [
+      "a"
+    ]
+  },
+  {
+    "LanguageEN": "Iatmul",
+    "LanguageFR": "Iatmul",
+    "Glottocode": "iatm1242",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/iatm1242",
+    "CountryEN": "Papua New Guinea",
+    "CountryFR": "Papouasie-Nouvelle-Guinée",
+    "Latitude": -4.30064,
+    "Longitude": 143.316,
+    "Area_GLOT_FR": "Papunésie",
+    "CommentaryFR": "L’iatmul distingue deux catégories de noms, le masculin et le féminin. Les objets ont un genre arbitraire, par exemple, « tabac » est masculin, et « message » est féminin.",
+    "Classification_ID": [
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Towa",
+    "LanguageFR": "Towa",
+    "Glottocode": "jeme1245",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/jeme1245",
+    "CountryEN": "United States",
+    "CountryFR": "États-Unis",
+    "Latitude": 35.5994,
+    "Longitude": -106.766,
+    "Area_GLOT_FR": "Amérique du Nord",
+    "CommentaryFR": "Le towa distingue quatre catégories de noms, dont les animés comme « chien », les objets comme « chaise », ou encore, les habits comme « pantalon ».",
+    "Classification_ID": [
+      "c"
+    ]
+  },
+  {
+    "LanguageEN": "Khandesi",
+    "LanguageFR": "Khandesi",
+    "Glottocode": "khan1272",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/khan1272",
+    "CountryEN": "India",
+    "CountryFR": "Inde",
+    "Latitude": 21.3181,
+    "Longitude": 74.142,
+    "Area_GLOT_FR": "Eurasie",
+    "CommentaryFR": "Le khandesi distingue trois catégories de noms, le masculin, le féminin et le neutre. Les objets ont un genre arbitraire, par exemple, « citron » est neutre, et « radio » est masculin.",
+    "Classification_ID": [
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Kharia",
+    "LanguageFR": "Kharia",
+    "Glottocode": "khar1287",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/khar1287",
+    "CountryEN": "India, Nepal",
+    "CountryFR": "Inde, Népal",
+    "Latitude": 22.3571,
+    "Longitude": 84.3922,
+    "Area_GLOT_FR": "Eurasie",
+    "CommentaryFR": "Le kharia distingue huit catégories de noms, dont les humains, les animaux et les objets.",
+    "Classification_ID": [
+      "a"
+    ]
+  },
+  {
+    "LanguageEN": "Khmu",
+    "LanguageFR": "Khmu",
+    "Glottocode": "khmu1256",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/khmu1256",
+    "CountryEN": "China, Laos, Myanmar, Thailand, Vietnam",
+    "CountryFR": "Chine, Laos, Birmanie, Thaïlande, Viêt Nam",
+    "Latitude": 20.2463,
+    "Longitude": 101.671,
+    "Area_GLOT_FR": "Eurasie",
+    "CommentaryFR": "Le khmu distingue au moins 16 catégories de noms, dont les humains, les véhicules, les choses longues, les maisons, ou encore les plantes !",
+    "Classification_ID": [
+      "a"
+    ]
+  },
+  {
+    "LanguageEN": "Khoibu",
+    "LanguageFR": "Khoibu",
+    "Glottocode": "khoi1251",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/khoi1251",
+    "CountryEN": "India",
+    "CountryFR": "Inde",
+    "Latitude": 24.2041,
+    "Longitude": 94.1345,
+    "Area_GLOT_FR": "Eurasie",
+    "CommentaryFR": "Le khoibu distingue cinq catégories de noms, selon la forme des objets . Par exemple, « orange » appartient à la catégorie d’objets ronds, et « cigarette » à la catégorie d’objets longs !",
+    "Classification_ID": [
+      "a"
+    ]
+  },
+  {
+    "LanguageEN": "Khorasan Arabic",
+    "LanguageFR": "Arabe du Khorassan",
+    "Glottocode": "khor1274",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/khor1274",
+    "CountryEN": "Iran",
+    "CountryFR": "L'Iran",
+    "Latitude": 35.857626,
+    "Longitude": 59.14336,
+    "Area_GLOT_FR": "Eurasie",
+    "CommentaryFR": "l’arabe du Khorassan distingue deux catégories de noms, le masculin et le féminin.",
+    "Classification_ID": [
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Khotanese",
+    "LanguageFR": "Khotanais",
+    "Glottocode": "khot1251",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/khot1251",
+    "CountryEN": "China",
+    "CountryFR": "Chine",
+    "Latitude": 38.33,
+    "Longitude": 79.04,
+    "Area_GLOT_FR": "Eurasie",
+    "CommentaryFR": "Le khotanais distingue traditionellement trois catégories de noms : le masculin, le féminin et le neutre. Mais la langue moderne ne ferait plus ces distinctions très clairement !",
+    "Classification_ID": [
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Khwarshi-Inkhoqwari",
+    "LanguageFR": "Khvarshi-Inkhoqwari",
+    "Glottocode": "khva1239",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/khva1239",
+    "CountryEN": "Russian Federation",
+    "CountryFR": "Fédération de Russie",
+    "Latitude": 42.2743,
+    "Longitude": 45.9977,
+    "Area_GLOT_FR": "Eurasie",
+    "CommentaryFR": "Le khvarshi-Inkhoqwari distingue cinq catégories de noms, dont le masculin, le féminin, les animaux et les objets. Il y a même une catégorie pour les jeunes !",
+    "Classification_ID": [
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Lower Richmond",
+    "LanguageFR": "Lower Richmond",
+    "Glottocode": "lowe1444",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/lowe1444",
+    "CountryEN": "Australia",
+    "CountryFR": "Australie",
+    "Latitude": -28.937029,
+    "Longitude": 153.48612,
+    "Area_GLOT_FR": "Australie",
+    "CommentaryFR": "Le lower Richmond distingue deux catégories de noms, le masculin et le féminin.",
+    "Classification_ID": [
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Tweed-Albert",
+    "LanguageFR": "Tweed-Albert",
+    "Glottocode": "twee1234",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/twee1234",
+    "CountryEN": "Australia",
+    "CountryFR": "Australie",
+    "Latitude": -28.03,
+    "Longitude": 153.3,
+    "Area_GLOT_FR": "Australie",
+    "CommentaryFR": "Le tweed-albert distingue quatre catégories de noms, dont le masculin et le féminin, mais aussi le neutre et même une catégorie pour les arbres !",
+    "Classification_ID": [
+      "a",
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Oluta Popoluca",
+    "LanguageFR": "Popoluca d’Oluta",
+    "Glottocode": "olut1240",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/olut1240",
+    "CountryEN": "Mexico",
+    "CountryFR": "Mexique",
+    "Latitude": 17.89,
+    "Longitude": -94.89,
+    "Area_GLOT_FR": "Amérique du Nord",
+    "CommentaryFR": "Le popoluca d’Oluta distingue deux catégories de noms, selon leur posture plutôt « couchée » ou « assise ».",
+    "Classification_ID": [
+      "a"
+    ]
+  },
+  {
+    "LanguageEN": "Omaha-Ponca",
+    "LanguageFR": "Omaha-Ponca",
+    "Glottocode": "omah1247",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/omah1247",
+    "CountryEN": "United States",
+    "CountryFR": "États-Unis",
+    "Latitude": 42.09,
+    "Longitude": -96.53,
+    "Area_GLOT_FR": "Amérique du Nord",
+    "CommentaryFR": "L’omaha-ponca distingue au moins quatre catégories de noms pour les objets, dont les objets plats, ronds, longs ou encore les objets « étalés » comme une table.",
+    "Classification_ID": [
+      "a"
+    ]
+  },
+  {
+    "LanguageEN": "Papapana",
+    "LanguageFR": "Papapana",
+    "Glottocode": "papa1265",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/papa1265",
+    "CountryEN": "Papua New Guinea",
+    "CountryFR": "Papouasie-Nouvelle-Guinée",
+    "Latitude": -5.923,
+    "Longitude": 155.3,
+    "Area_GLOT_FR": "Papunésie",
+    "CommentaryFR": "Le papapana distingue quatre catégories de noms, dont une dédiée aux termes de parenté, et une autre aux noms des lieux et de temps.",
+    "Classification_ID": [
+      "c"
+    ]
+  },
+  {
+    "LanguageEN": "Plains Cree",
+    "LanguageFR": "Cree des Plaines",
+    "Glottocode": "plai1258",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/plai1258",
+    "CountryEN": "Canada, United States",
+    "CountryFR": "Canada, États-Unis",
+    "Latitude": 51.24,
+    "Longitude": -110.5,
+    "Area_GLOT_FR": "Amérique du Nord",
+    "CommentaryFR": "Le cree des plaines distingue deux catégories de noms, les animés et les inanimés. Par exemple, « âme » est animé et « corps » est inanimé.",
+    "Classification_ID": [
+      "b"
+    ]
+  },
+  {
+    "LanguageEN": "Miraña",
+    "LanguageFR": "Miraña",
+    "Glottocode": "mira1254",
+    "GlottologURL": "https://glottolog.org/resource/languoid/id/mira1254",
+    "CountryEN": "Colombia",
+    "CountryFR": "Colombie",
+    "Latitude": -2.000259,
+    "Longitude": -72.257066,
+    "Area_GLOT_FR": "Amérique du Sud",
+    "CommentaryFR": "Le miraña distingue au moins 72 catégories de noms, avec des distinctions fines selon la forme (rond, plat, long) ou encore l’usage (habits, transport) des objets.",
+    "Classification_ID": [
+      "c"
+    ]
+  }
+]
